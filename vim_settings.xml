@@ -53,8 +53,12 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458297985557">
-        <mark key="'" line="9" column="31" />
+      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458554436716">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="205" column="18" />
+        <mark key="]" line="206" column="33" />
+        <mark key="." line="206" column="33" />
+        <mark key="^" line="206" column="33" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/agentjob/urls.py" timestamp="1458298130713">
         <mark key="[" line="0" column="0" />
@@ -126,6 +130,7 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/users/backends.py" timestamp="1458555326685" />
       <file name="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" timestamp="1457345337672">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="25" />
@@ -141,11 +146,11 @@
         <mark key="." line="170" column="66" />
         <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1457520397914">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458554931128">
+        <mark key="'" line="61" column="8" />
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="66" column="34" />
+        <mark key="." line="62" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/checks.py" timestamp="1456744268189">
         <mark key="[" line="14" column="45" />
@@ -185,16 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="472" column="51" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="25" column="6" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="31" column="7" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="132" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="171" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="373" column="46" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="195" column="44" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="193" column="37" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="241" column="33" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="343" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="304" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" />
       <jump line="303" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" />
       <jump line="238" column="32" filename="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" />
@@ -285,6 +280,16 @@
       <jump line="134" column="45" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
       <jump line="89" column="41" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
       <jump line="108" column="30" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
+      <jump line="167" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="169" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="148" column="10" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="16" column="19" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="12" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
+      <jump line="16" column="6" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
+      <jump line="11" column="6" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
+      <jump line="69" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -717,62 +722,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBST1VURVIudXJscwo=</text>
+        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>*args, **kwargs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0bXBfdGV4X25hbWVcPg==</text>
+        <text>tag_all_feed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IHNlbGYuZ2V0X3F1ZXJ5c2V0KCkKICAgICAgICBmZWVkID0gZ2V0X29iamVjdF9vcl80MDQocXVlcnlzZXQsIHBrPXBrKQo=</text>
+        <text encoding="base64">ICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBST1VURVIudXJscwo=</text>
+        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBST1VURVIudXJscwo=</text>
+        <text encoding="base64">QHNoYXJlZF90YXNrCmRlZiBzeW5jX2FydGljbGVfZmVlZChmZWVkX2lkKToKICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCiAgICB0YWdfYWxsX2ZlZWRfYXJ0aWNsZXMoZmVlZF9pZCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAqYXJncywgKiprd2FyZ3MK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>*args, **kwargs</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>*args, **kwargs</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX21ha2VfZmVlZAo=</text>
+      <register name="6" type="4">
+        <text>*args, **kwargs</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">JycgXAogICAgICAgICAgICAgICAgICAgIA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQogICAgICAgIHRhZ19yZWNlbnRfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBpc19hY3RpdmUoc2VsZik6CiAgICAgICAgIiIiCiAgICAgICAgUmV0dXJucyBhbiBpbmZvcm1hdGlvbiB3aGV0aGVyIGEgZmVlZCBpcyBhY3RpdmUgb3Igbm90CiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIK</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">QHBlcm1pc3Npb25fY2xhc3NlcygoSXNBdXRoZW50aWNhdGVkLCkpCg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0bXBfdGV4X25hbWVcPg==</last-search>
+      <last-search>tag_all_feed</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0bXBfdGV4X25hbWVcPg==</last-pattern>
+      <last-pattern>tag_all_feed</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>id_feed</entry>
-        <entry>connection</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZV9pZF9taWZsdXpfbGlzdFw+</entry>
         <entry>get_mifluz_search</entry>
         <entry encoding="base64">XDxnZXRfbWlmbHV6X3NlYXJjaFw+</entry>
         <entry>AbstractMifluzList</entry>
@@ -790,6 +792,9 @@
         <entry>__run_texrunner</entry>
         <entry encoding="base64">XDx0bXBfeG1sX25hbWVcPg==</entry>
         <entry encoding="base64">XDx0bXBfdGV4X25hbWVcPg==</entry>
+        <entry encoding="base64">XDx1bnRhZ19hbGxfZmVlZF9hcnRpY2xlc1w+</entry>
+        <entry encoding="base64">XDx0YWdfcmVjZW50X2ZlZWRfYXJ0aWNsZXNcPg==</entry>
+        <entry>tag_all_feed</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
@@ -809,8 +814,8 @@
         <entry>W:w</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
