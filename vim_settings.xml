@@ -53,13 +53,6 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458558238417">
-        <mark key="'" line="16" column="19" />
-        <mark key="[" line="199" column="32" />
-        <mark key="]" line="199" column="38" />
-        <mark key="." line="199" column="38" />
-        <mark key="^" line="199" column="38" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/agentjob/urls.py" timestamp="1458298130713">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -80,6 +73,11 @@
         <mark key="]" line="0" column="19" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/tags/views.py" timestamp="1458564321697">
+        <mark key="[" line="210" column="0" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1455289555025">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -88,6 +86,7 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1458559376803" />
       <file name="$USER_HOME$/Opoint/api/opoint/articles/serializers.py" timestamp="1458557345219" />
       <file name="$USER_HOME$/Opoint/api/opoint/tags/serializers.py" timestamp="1458220735388">
         <mark key="." line="15" column="54" />
@@ -125,6 +124,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" timestamp="1458560762169">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="80" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/auth.py" timestamp="1457526845198">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
@@ -147,7 +151,7 @@
         <mark key="." line="170" column="66" />
         <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458556765475">
+      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458558979768">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="66" column="34" />
@@ -723,43 +727,43 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBBcnRpY2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF8yMDBfT0spCg==</text>
       </register>
       <register name="-" type="4">
-        <text>*args, **kwargs</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>tag_all_feed</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKCphcmdzLCAqKmt3YXJncykK</text>
+        <text encoding="base64">ICAgIHNlc3Npb24gPSBnZXRfc2Vzc2lvbigpCgogICAgdHJ5OgogICAgICAgIGZvciBiYXNrZXQgaW4gYmFza2V0czoKICAgICAgICAgICAgaWYgbW9kZSBpbiBbJ3RhZyddOgogICAgICAgICAgICAgICAgc2Vzc2lvbi5tZXJnZShiYXNrZXQpCiAgICAgICAgICAgIGVsaWYgbW9kZSBpbiBbJ3VudGFnJ106CiAgICAgICAgICAgICAgICBzZXNzaW9uLnF1ZXJ5KEFydGljbGVCYXNrZXQpLmZpbHRlcigKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlQmFza2V0LmlkX2Jhc2tldCA9PSBiYXNrZXQuaWRfYmFza2V0LAogICAgICAgICAgICAgICAgICAgIEFydGljbGVCYXNrZXQuaWRfc2l0ZSA9PSBiYXNrZXQuaWRfc2l0ZSwKICAgICAgICAgICAgICAgICAgICBBcnRpY2xlQmFza2V0LmlkX2FydGljbGUgPT0gYmFza2V0LmlkX2FydGljbGUKICAgICAgICAgICAgICAgICkuZGVsZXRlKCkKCiAgICAgICAgc2Vzc2lvbi5jb21taXQoKQoKICAgICAgICB0YWcubGFzdF9zZXQgPSBpbnQodGltZS50aW1lKCkpCiAgICAgICAgdGFnLnNhdmUoKQogICAgZXhjZXB0OgogICAgICAgIHNlc3Npb24ucm9sbGJhY2soKQogICAgICAgIHJhaXNlCiAgICBmaW5hbGx5OgogICAgICAgIHNlc3Npb24uY2xvc2UoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBBcnRpY2xlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF8yMDBfT0spCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF8yMDBfT0spCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHNoYXJlZF90YXNrCmRlZiBzeW5jX2FydGljbGVfZmVlZChmZWVkX2lkKToKICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCiAgICB0YWdfYWxsX2ZlZWRfYXJ0aWNsZXMoZmVlZF9pZCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAqYXJncywgKiprd2FyZ3MK</text>
+        <text encoding="base64">ICAgICAgICB0YWcubGFzdF9zZXQgPSBpbnQodGltZS50aW1lKCkpCiAgICAgICAgdGFnLnNhdmUoKQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>*args, **kwargs</text>
+      <register name="5" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
-      <register name="6" type="4">
-        <text>*args, **kwargs</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgbW9kZSBpbiBbJ3RhZyddOgogICAgICAgICAgICAgICAgc2Vzc2lvbi5tZXJnZShiYXNrZXQpCiAgICAgICAgICAgIGVsaWYgbW9kZSBpbiBbJ3VudGFnJ106Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>*args, **kwargs</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBtb2RlIGluIFsndW50YWcnXToKICAgICAgICAgICAgICAgIHNlc3Npb24ucXVlcnkoQXJ0aWNsZUJhc2tldCkuZmlsdGVyKAogICAgICAgICAgICAgICAgICAgIEFydGljbGVCYXNrZXQuaWRfYmFza2V0ID09IGJhc2tldC5pZF9iYXNrZXQsCiAgICAgICAgICAgICAgICAgICAgQXJ0aWNsZUJhc2tldC5pZF9zaXRlID09IGJhc2tldC5pZF9zaXRlLAogICAgICAgICAgICAgICAgICAgIEFydGljbGVCYXNrZXQuaWRfYXJ0aWNsZSA9PSBiYXNrZXQuaWRfYXJ0aWNsZQogICAgICAgICAgICAgICAgKS5kZWxldGUoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQogICAgICAgIHRhZ19yZWNlbnRfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -810,14 +814,14 @@
         <entry>Wqa</entry>
         <entry>100</entry>
         <entry>sp</entry>
-        <entry>wq</entry>
         <entry>wqa</entry>
         <entry>W:w</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
-        <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
