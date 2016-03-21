@@ -53,12 +53,12 @@
         <mark key="^" line="22" column="12" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458554436716">
+      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458558238417">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="205" column="18" />
-        <mark key="]" line="206" column="33" />
-        <mark key="." line="206" column="33" />
-        <mark key="^" line="206" column="33" />
+        <mark key="[" line="199" column="32" />
+        <mark key="]" line="199" column="38" />
+        <mark key="." line="199" column="38" />
+        <mark key="^" line="199" column="38" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/agentjob/urls.py" timestamp="1458298130713">
         <mark key="[" line="0" column="0" />
@@ -88,6 +88,7 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/articles/serializers.py" timestamp="1458557345219" />
       <file name="$USER_HOME$/Opoint/api/opoint/tags/serializers.py" timestamp="1458220735388">
         <mark key="." line="15" column="54" />
       </file>
@@ -146,7 +147,7 @@
         <mark key="." line="170" column="66" />
         <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458554931128">
+      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458556765475">
         <mark key="'" line="61" column="8" />
         <mark key="[" line="62" column="0" />
         <mark key="]" line="66" column="34" />
@@ -722,7 +723,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnRpY2xlCg==</text>
       </register>
       <register name="-" type="4">
         <text>*args, **kwargs</text>
@@ -734,16 +735,16 @@
         <text encoding="base64">ICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKCphcmdzLCAqKmt3YXJncykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
+        <text encoding="base64">ICAgICAgICBBcnRpY2xlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHNoYXJlZF90YXNrCmRlZiBzeW5jX2FydGljbGVfZmVlZChmZWVkX2lkKToKICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCiAgICB0YWdfYWxsX2ZlZWRfYXJ0aWNsZXMoZmVlZF9pZCkK</text>
+        <text encoding="base64">CkBzaGFyZWRfdGFzawpkZWYgc3luY19hcnRpY2xlX2ZlZWQoZmVlZF9pZCk6CiAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkX2lkKQogICAgdGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAqYXJncywgKiprd2FyZ3MK</text>
+        <text encoding="base64">QHNoYXJlZF90YXNrCmRlZiBzeW5jX2FydGljbGVfZmVlZChmZWVkX2lkKToKICAgIHVudGFnX2FsbF9mZWVkX2FydGljbGVzKGZlZWRfaWQpCiAgICB0YWdfYWxsX2ZlZWRfYXJ0aWNsZXMoZmVlZF9pZCkK</text>
       </register>
-      <register name="4" type="4">
-        <text>*args, **kwargs</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAqYXJncywgKiprd2FyZ3MK</text>
       </register>
       <register name="5" type="4">
         <text>*args, **kwargs</text>
@@ -751,14 +752,14 @@
       <register name="6" type="4">
         <text>*args, **kwargs</text>
       </register>
-      <register name="7" type="2">
+      <register name="7" type="4">
+        <text>*args, **kwargs</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB1bnRhZ19hbGxfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQogICAgICAgIHRhZ19yZWNlbnRfZmVlZF9hcnRpY2xlcyhmZWVkLmlkKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
