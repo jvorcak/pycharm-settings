@@ -25,13 +25,6 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="36" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1457097540346">
-        <mark key="'" line="258" column="48" />
-        <mark key="[" line="249" column="67" />
-        <mark key="]" line="249" column="69" />
-        <mark key="." line="249" column="69" />
-        <mark key="^" line="249" column="69" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="33" />
@@ -55,12 +48,6 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
         <mark key="^" line="22" column="12" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1458567181891">
-        <mark key="'" line="185" column="4" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="47" />
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/agentjob/urls.py" timestamp="1458298130713">
