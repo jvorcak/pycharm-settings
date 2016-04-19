@@ -18,6 +18,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1461045058682">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/common/suggestions.py" timestamp="1461045092643">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="36" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1457097540346">
         <mark key="'" line="258" column="48" />
         <mark key="[" line="249" column="67" />
@@ -90,8 +97,6 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1458559376803" />
-      <file name="$USER_HOME$/Opoint/api/opoint/articles/serializers.py" timestamp="1458557345219" />
       <file name="$USER_HOME$/Opoint/api/opoint/tags/serializers.py" timestamp="1458220735388">
         <mark key="." line="15" column="54" />
       </file>
@@ -141,7 +146,6 @@
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/users/backends.py" timestamp="1458555326685" />
       <file name="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" timestamp="1457345337672">
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="25" />
@@ -727,7 +731,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBvcG9pbnQudGFncy50YXNrcyBpbXBvcnQgdGFnX2FydGljbGVzX3Rhc2sK</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="-" type="4">
         <text>_</text>
@@ -736,7 +740,7 @@
         <text>get_object</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2Uoc3RhdHVzPXN0YXR1cy5IVFRQXzIwMF9PSykKICAgIGVsc2U6CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF80MDBfQkFEX1JFUVVFU1QsCiAgICAgICAgICAgICAgICAgICAgICAgIGRhdGE9c2VyaWFsaXplci5lcnJvcnMpCg==</text>
+        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBvcG9pbnQudGFncy50YXNrcyBpbXBvcnQgdGFnX2FydGljbGVzX3Rhc2sK</text>
