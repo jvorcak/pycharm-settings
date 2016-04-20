@@ -28,11 +28,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461152371091">
-        <mark key="[" line="457" column="28" />
-        <mark key="]" line="457" column="28" />
-        <mark key="^" line="456" column="28" />
-        <mark key="." line="457" column="28" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461154849190">
+        <mark key="'" line="381" column="0" />
+        <mark key="[" line="456" column="31" />
+        <mark key="]" line="456" column="37" />
+        <mark key="^" line="456" column="37" />
+        <mark key="." line="456" column="37" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -205,7 +206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="15" filename="$USER_HOME$/Opoint/api/opoint/storedsearch/serializers.py" />
       <jump line="148" column="53" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="247" column="77" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="248" column="61" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
@@ -305,6 +305,7 @@
       <jump line="172" column="27" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="185" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="21" column="43" filename="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" />
+      <jump line="454" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -737,52 +738,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
-        <text>get_object</text>
+        <text>chapter_id</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBkZXRhaWxfcm91dGUobWV0aG9kcz1bJ0dFVCddLCB1cmxfcGF0aD0naGlzdG9yeScpCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>]</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>[</text>
       </register>
       <register name="4" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">KD9QPGRhdGU+WzAtOV0rKS8=</text>
+        <text>&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>get_object</last-search>
+      <last-search>chapter_id</last-search>
       <last-offset />
-      <last-pattern>get_object</last-pattern>
+      <last-pattern>chapter_id</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -790,7 +791,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mifluzlist_id</entry>
         <entry>MifluzList</entry>
         <entry>abstractmifluzlist_ptr_id</entry>
         <entry>ptr</entry>
@@ -810,6 +810,7 @@
         <entry>10**</entry>
         <entry>serializer</entry>
         <entry>get_object</entry>
+        <entry>chapter_id</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -827,9 +828,9 @@
         <entry encoding="base64">JzwsJz5X</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>wq</entry>
-        <entry>sp</entry>
         <entry>q</entry>
         <entry>wa</entry>
+        <entry>sp</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
