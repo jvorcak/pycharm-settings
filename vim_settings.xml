@@ -28,12 +28,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461157816414">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461159659977">
         <mark key="'" line="381" column="0" />
-        <mark key="[" line="464" column="0" />
-        <mark key="]" line="464" column="0" />
-        <mark key="^" line="455" column="74" />
-        <mark key="." line="464" column="0" />
+        <mark key="[" line="477" column="33" />
+        <mark key="]" line="477" column="33" />
+        <mark key="^" line="477" column="33" />
+        <mark key="." line="477" column="33" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
