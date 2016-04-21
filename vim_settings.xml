@@ -13,10 +13,11 @@
         <mark key="." line="88" column="39" />
         <mark key="^" line="88" column="39" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/searchd/serializers.py" timestamp="1457081396807">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1461219242304">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="12" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/suggestions.py" timestamp="1461047467053">
         <mark key="[" line="15" column="0" />
@@ -28,12 +29,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461216569119">
-        <mark key="'" line="381" column="0" />
-        <mark key="[" line="460" column="13" />
-        <mark key="]" line="460" column="11" />
-        <mark key="^" line="460" column="11" />
-        <mark key="." line="460" column="11" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461219548434">
+        <mark key="'" line="23" column="35" />
+        <mark key="[" line="455" column="45" />
+        <mark key="]" line="455" column="45" />
+        <mark key="^" line="457" column="32" />
+        <mark key="." line="455" column="45" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -67,36 +68,16 @@
         <mark key="^" line="81" column="43" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1461140578612" />
-      <file name="$USER_HOME$/Opoint/api/opoint/agentjob/urls.py" timestamp="1458298130713">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/clients/sttfi/views.py" timestamp="1458553240017">
         <mark key="]" line="229" column="0" />
         <mark key="^" line="229" column="0" />
         <mark key="." line="229" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/notifications/serializers.py" timestamp="1450186330349">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/profiles/__init__.py" timestamp="1456744165729">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="19" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/views.py" timestamp="1458566755931">
         <mark key="[" line="71" column="0" />
         <mark key="]" line="74" column="47" />
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1455289555025">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/clients/landau/views.py" timestamp="1461151122693">
         <mark key="[" line="44" column="23" />
@@ -106,16 +87,6 @@
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
-      </file>
-      <file name="/dummy.sql" timestamp="1457081398943">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/contacts/serializers.py" timestamp="1449827777378">
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1458566453104">
         <mark key="'" line="107" column="20" />
@@ -129,16 +100,6 @@
         <mark key="]" line="157" column="36" />
         <mark key="." line="157" column="36" />
         <mark key="^" line="157" column="36" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/migrations/0006_feed_schedule_item.py" timestamp="1457520414377">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/profiles/views.py" timestamp="1455634029595">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" timestamp="1458567204674">
         <mark key="'" line="21" column="43" />
@@ -199,15 +160,8 @@
         <mark key="." line="239" column="86" />
         <mark key="^" line="239" column="86" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/validators.py" timestamp="1458200302715">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="53" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
-      <jump line="247" column="77" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="248" column="61" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="22" column="44" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="26" column="79" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
@@ -306,6 +260,8 @@
       <jump line="185" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="21" column="43" filename="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" />
       <jump line="454" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="464" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -738,52 +694,52 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>GET</text>
+        <text>-</text>
       </register>
       <register name="-" type="4">
-        <text>GET</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>transform</text>
+        <text>remove</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">IAog</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDpyZXR1cm46Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>GET</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
-        <text>r</text>
+        <text>t</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIKICAgICAgICAkcXVlcnkgPQogICAgICAnVVBEQVRFIFNjaGVkdWxlSXRlbXMnLgogICAgICAnIFNFVCBOZXh0UG9zc2libGVTZW5kPTIsJy4KICAgICAgJyBMYXN0TmV3QXJ0aWNsZT0nLkRCOjppbnQoRGF0ZTo6dGltZTJzdGltZSh0aW1lKCkpKS4nLCcuCiAgICAgICcgaGFuZGxlcl9pZD0nLkRCOjppbnQoQ29uZmlnOjpnZXQoJ0hBTkRMRVJfSUQnKSkuJyAnLgogICAgICAnV0hFUkUgaWRfaXRlbSBJTiAoJzsKICAgIGZvcmVhY2ggKCR0aGlzLT5pdGVtcyBhcyAkaSA9PiAmJGl0ZW0pCiAgICAgICRxdWVyeSAuPSAoJGk/JywnOicnKS5EQjo6aW50KCRpdGVtWydpZCddKTsKICAgICRxdWVyeSAuPSAnKSc7CiAgICBzZWxmOjpkZWJ1Zygnc2VuZE5vdygpJywgJHF1ZXJ5KTsKICAgIHJldHVybiBEQjo6cXVlcnkoJHF1ZXJ5KTsKICAgICAgICAiIiIK</text>
+      <register name="4" type="4">
+        <text>g</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UocGspCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>POST</text>
+      <register name="6" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICIiIgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgIiIiCg==</text>
+      <register name="7" type="4">
+        <text>&quot;&quot;&quot;</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gcmVxdWVzdDogCiAgICAgICAgOnBhcmFtIHBrOiAKICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmVuZGVyZXJfY2xhc3Nlcz1bU3RhdGljSFRNTFJlbmRlcmVyXSkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChkYXRlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>chapter_id</last-search>
+      <last-search>remove</last-search>
       <last-offset />
-      <last-pattern>transform</last-pattern>
+      <last-pattern>remove</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -791,7 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry>abstractmifluzlist_ptr_id</entry>
         <entry>ptr</entry>
         <entry>unique</entry>
         <entry>delete</entry>
@@ -811,6 +766,7 @@
         <entry>get_object</entry>
         <entry>chapter_id</entry>
         <entry>transform</entry>
+        <entry>remove</entry>
       </history-search>
       <history-cmd>
         <entry>%/:/=/</entry>
