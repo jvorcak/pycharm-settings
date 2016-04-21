@@ -29,12 +29,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461222777677">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461223714280">
         <mark key="'" line="471" column="12" />
-        <mark key="[" line="475" column="47" />
-        <mark key="]" line="475" column="47" />
-        <mark key="^" line="475" column="47" />
-        <mark key="." line="475" column="47" />
+        <mark key="[" line="478" column="40" />
+        <mark key="]" line="479" column="39" />
+        <mark key="^" line="479" column="39" />
+        <mark key="." line="479" column="39" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -693,8 +693,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>11604424+POW(10,9), 11604422+POW(10,9)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGRpY3RmZXRjaGFsbChjKSkK</text>
       </register>
       <register name="-" type="4">
         <text>11604424+POW(10,9), 11604422+POW(10,9)</text>
@@ -705,32 +705,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYy5leGVjdXRlKCJTRUxFQ1QgaWRfaXRlbSBGUk9NIFNjaGVkdWxlSXRlbXMgV0hFUkUgY2xhc3MgPSAlcyIsIHBrKQogICAgICAgICAgICBpZF9iYXNrZXRzID0gW3hbMF0gZm9yIHggaW4gYy5mZXRjaGFsbCgpXQo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGRpY3RmZXRjaGFsbChjKSkK</text>
+      </register>
+      <register name="2" type="4">
         <text>11604424+POW(10,9), 11604422+POW(10,9)</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjLmV4ZWN1dGUoIlNFTEVDVCBpZF9pdGVtIEZST00gU2NoZWR1bGVJdGVtcyBXSEVSRSBjbGFzcyA9ICVzIiwgcGspCiAgICAgICAgaWRfYmFza2V0cyA9IFt4WzBdIGZvciB4IGluIGMuZmV0Y2hhbGwoKV0K</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoJ2FydGljbGVzJykK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VsZWN0ICoKICAgICAgICAgICAgZnJvbSBBcnRpY2xlQmFza2V0IHdoZXJlCiAgICAgICAgICAgIGlkX2Jhc2tldCBpbiAoMTE2MDQ0MjQgKyBQT1coMTAsIDkpLCAxMTYwNDQyMiArIFBPVygxMCwgOSkpIGFuZCBub3Qgc3RpbWVzdGFtcF91c2VkCg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>&quot;&quot;&quot;</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>-</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
-      </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
