@@ -29,10 +29,11 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461659751312">
-        <mark key="[" line="486" column="30" />
-        <mark key="]" line="490" column="0" />
-        <mark key="." line="490" column="0" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461661552298">
+        <mark key="[" line="495" column="26" />
+        <mark key="]" line="495" column="29" />
+        <mark key="^" line="495" column="29" />
+        <mark key="." line="495" column="29" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -699,28 +700,28 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YVsnYXJ0aWNsZXMnXSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbCA9ICcoe30pIEFORCBpZF9iYXNrZXQgSU4gKCknCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbCA9ICcoe30pIEFORCBpZF9iYXNrZXQgSU4gKCknCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGMuZXhlY3V0ZSgiU0VMRUNUIGlkX2l0ZW0gRlJPTSBTY2hlZHVsZUl0ZW1zIFdIRVJFIGNsYXNzID0gJXMiLCBwaykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDAwNDIxOTVkZDA1MzUzNjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KG9yX3N0cikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKGRpY3RmZXRjaGFsbChjKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHNlcmlhbGl6ZXIudmFsaWRhdGVkX2RhdGEpCg==</text>
       </register>
-      <register name="7" type="4">
-        <text>11604424+POW(10,9), 11604422+POW(10,9)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjLmV4ZWN1dGUoIlNFTEVDVCBpZF9pdGVtIEZST00gU2NoZWR1bGVJdGVtcyBXSEVSRSBjbGFzcyA9ICVzIiwgcGspCiAgICAgICAgaWRfYmFza2V0cyA9IFt4WzBdIGZvciB4IGluIGMuZmV0Y2hhbGwoKV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc2VyaWFsaXplci52YWxpZGF0ZWRfZGF0YVsnYXJ0aWNsZXMnXSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50KHEpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
