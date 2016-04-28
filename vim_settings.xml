@@ -45,11 +45,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461852758233">
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="37" />
-        <mark key="." line="15" column="37" />
-        <mark key="^" line="15" column="37" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461854887590">
+        <mark key="[" line="26" column="46" />
+        <mark key="]" line="26" column="59" />
+        <mark key="." line="26" column="59" />
+        <mark key="^" line="26" column="59" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -139,11 +139,11 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="25" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/README.md" timestamp="1461853294851">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="11" column="2" />
-        <mark key="^" line="11" column="2" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/README.md" timestamp="1461854375418">
+        <mark key="[" line="21" column="9" />
+        <mark key="]" line="21" column="46" />
+        <mark key="." line="21" column="46" />
+        <mark key="^" line="21" column="46" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/templates/serializers.py" timestamp="1456490741403">
         <mark key="[" line="170" column="66" />
@@ -722,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -734,31 +734,31 @@
         <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">YGBgCmFob2oKYGBgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">YGFzZGFzZGFzZGAK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tJykK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KioqKgo=</text>
+        <text encoding="base64">YGBgCmFob2oKYGBgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>http://stackoverflow.com/questions/8053295/getting-the-final-destination-of-a-javascript-redirect-on-a-website</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -805,7 +805,6 @@
         <entry>325</entry>
         <entry>Wqa</entry>
         <entry>100</entry>
-        <entry>wqa</entry>
         <entry>W:w</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>wq</entry>
@@ -815,6 +814,7 @@
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
+        <entry>wqa</entry>
         <entry>w</entry>
         <entry>W</entry>
       </history-cmd>
