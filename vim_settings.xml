@@ -48,6 +48,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461844177842">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
         <mark key="]" line="40" column="33" />
@@ -707,7 +713,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFdlYmRyaXZlciB3ZWJkcml2ZXIgPSBuZXcgRmlyZWZveERyaXZlcgo=</text>
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNCkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -719,31 +725,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZShzdGF0dXM9c3RhdHVzLkhUVFBfMjA0X05PX0NPTlRFTlQpCg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">dGltZS4K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGltcG9ydCB0aW1lOyB0aW1lLnNsZWVwKDEwKQo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIFdlYmRyaXZlciB3ZWJkcml2ZXIgPSBuZXcgRmlyZWZveERyaXZlcgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>w</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>e</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>n</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBzZWxlbml1bSBpbXBvcnQgd2ViZHJpdmVyCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">IyEvYmVudiBweXRob24K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">RmlyZWZveFByb2ZpbGUgb1Byb2ZpbGUgPSBuZXcgRmlyZWZveFByb2ZpbGUoKTsK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBkZXRhaWxfcm91dGUobWV0aG9kcz1bJ0dFVCddLCB1cmxfcGF0aD0ncmVtb3ZlLWFydGljbGVzJykKICAgIGRlZiByZW1vdmVfYXJ0aWNsZXMoc2VsZiwgcmVxdWVzdCwgcGs9Tm9uZSk6CiAgICAgICAgIiIiCiAgICAgICAgUmVtb3ZlcyBhcnRpY2xlcyB0aGF0IGFyZSBhYm91dCB0byBiZSBzZW50CiAgICAgICAgaW4gdGhlIGZvbGxvd2luZyBkZWxpdmVyeS4KICAgICAgICA6cGFyYW0gcmVxdWVzdDogcmVxdWVzdCBvYmplY3QKICAgICAgICA6cGFyYW0gcGs6IGNsYXNzIGlkIG9mIGFuIGFsZXJ0CiAgICAgICAgOnJldHVybjoKICAgICAgICAiIiIKICAgICAgICByZW1vdmVfYWxlcnRfYXJ0aWNsZXMocGspCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF8yMDRfTk9fQ09OVEVOVCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -800,8 +806,8 @@
         <entry>sp</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
