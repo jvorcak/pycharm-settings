@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1458299919322">
-        <mark key="'" line="108" column="30" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/urls.py" timestamp="1458298178319">
         <mark key="'" line="9" column="12" />
         <mark key="[" line="87" column="45" />
@@ -48,11 +45,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461844177842">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461852758233">
+        <mark key="[" line="15" column="38" />
+        <mark key="]" line="15" column="37" />
+        <mark key="." line="15" column="37" />
+        <mark key="^" line="15" column="37" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -89,6 +86,12 @@
         <mark key="." line="30" column="3" />
         <mark key="^" line="30" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/SingleFileChromeExtension/WebContent/ui/scripts/content/content.js" timestamp="1461852627261">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="^" line="109" column="7" />
+        <mark key="." line="109" column="0" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/clients/landau/views.py" timestamp="1461151122693">
         <mark key="[" line="44" column="23" />
         <mark key="]" line="45" column="19" />
@@ -103,9 +106,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
-        <mark key="'" line="268" column="8" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1458566453104">
         <mark key="'" line="107" column="20" />
@@ -139,6 +139,12 @@
         <mark key="." line="55" column="25" />
         <mark key="^" line="55" column="25" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/README.md" timestamp="1461853294851">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="2" />
+        <mark key="." line="11" column="2" />
+        <mark key="^" line="11" column="2" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/templates/serializers.py" timestamp="1456490741403">
         <mark key="[" line="170" column="66" />
         <mark key="]" line="170" column="66" />
@@ -163,9 +169,6 @@
         <mark key="]" line="267" column="0" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/users/models.py" timestamp="1457525814985">
-        <mark key="'" line="9" column="37" />
-      </file>
       <file name="$APPLICATION_HOME_DIR$/bin/glade/main.py" timestamp="1458390316586">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="18" column="9" />
@@ -178,6 +181,12 @@
         <mark key="]" line="212" column="56" />
         <mark key="." line="239" column="86" />
         <mark key="^" line="239" column="86" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/SingleFileChromeExtension/WebContent/ui/manifest.json" timestamp="1461852613413">
+        <mark key="[" line="24" column="30" />
+        <mark key="]" line="24" column="28" />
+        <mark key="^" line="24" column="28" />
+        <mark key="." line="24" column="28" />
       </file>
     </filemarks>
     <jumps>
@@ -713,7 +722,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNCkK</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -722,34 +731,34 @@
         <text encoding="base64">XDxodHRwc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBSZXNwb25zZShzdGF0dXM9c3RhdHVzLkhUVFBfMjA0X05PX0NPTlRFTlQpCg==</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRpbWUuc2xlZXAoNCkK</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dGltZS4K</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB0aW1lOyB0aW1lLnNsZWVwKDEwKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIFdlYmRyaXZlciB3ZWJkcml2ZXIgPSBuZXcgRmlyZWZveERyaXZlcgo=</text>
-      </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
-        <text>w</text>
+      <register name="5" type="2">
+        <text encoding="base64">YGBgCmFob2oKYGBgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YGFzZGFzZGFzZGAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KioqKgo=</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>http://stackoverflow.com/questions/8053295/getting-the-final-destination-of-a-javascript-redirect-on-a-website</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -788,7 +797,6 @@
         <entry encoding="base64">XDxodHRwc1w+</entry>
       </history-search>
       <history-cmd>
-        <entry>%/:/=/</entry>
         <entry>noh</entry>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
         <entry>%s/transform/transform_to_and_searchmode/g</entry>
@@ -806,6 +814,7 @@
         <entry>sp</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>a</entry>
         <entry>w</entry>
         <entry>W</entry>
       </history-cmd>
