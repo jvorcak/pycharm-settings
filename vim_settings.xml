@@ -36,12 +36,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461927246921">
-        <mark key="'" line="434" column="0" />
-        <mark key="[" line="458" column="9" />
-        <mark key="]" line="458" column="10" />
-        <mark key="." line="458" column="10" />
-        <mark key="^" line="458" column="10" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461929006918">
+        <mark key="'" line="541" column="42" />
+        <mark key="[" line="543" column="72" />
+        <mark key="]" line="543" column="80" />
+        <mark key="." line="543" column="80" />
+        <mark key="^" line="543" column="80" />
       </file>
       <file name="$USER_HOME$/Opoint/api/docs/alerts.rst" timestamp="1461666128071">
         <mark key="'" line="8" column="0" />
@@ -203,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="44" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
       <jump line="9" column="37" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -303,6 +302,7 @@
       <jump line="19" column="10" filename="$USER_HOME$/Opoint/api/requirements.txt" />
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
       <jump line="38" column="63" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
+      <jump line="542" column="42" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -735,10 +735,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBQYWdlTnVtYmVyUGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CursorPagination</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -747,31 +747,31 @@
         <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhZ2luYXRpb25fY2xhc3MgPSBQYWdlTnVtYmVyUGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>CursorPagination</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzZWxmLmdldF9wYWdpbmF0ZWRfcmVzcG9uc2UpCg==</text>
+      <register name="3" type="4">
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>, paginator_class=CursorPagination</text>
+        <text>o</text>
       </register>
       <register name="5" type="4">
-        <text>'./static/chromedriver'</text>
+        <text>l</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWVfYmluYXJ5ID0K</text>
+      <register name="6" type="4">
+        <text>_</text>
       </register>
       <register name="7" type="4">
-        <text>'osx' if platform.system() == 'Darwin' else 'linux'</text>
+        <text>y</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="8" type="4">
+        <text>r</text>
       </register>
       <register name="9" type="4">
-        <text>6</text>
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -821,15 +821,15 @@
         <entry>W:w</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>wa</entry>
-        <entry>sp</entry>
         <entry>s</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
+        <entry>sp</entry>
+        <entry>q</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
