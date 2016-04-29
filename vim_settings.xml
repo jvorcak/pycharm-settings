@@ -50,11 +50,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461919736456">
-        <mark key="[" line="31" column="4" />
-        <mark key="]" line="31" column="4" />
-        <mark key="." line="31" column="4" />
-        <mark key="^" line="33" column="66" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461920729939">
+        <mark key="'" line="38" column="63" />
+        <mark key="[" line="38" column="52" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="63" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -202,8 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="1" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="175" column="75" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="91" column="44" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
       <jump line="9" column="37" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
@@ -302,6 +301,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/Opoint/api/docs/alerts.rst" />
       <jump line="460" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="19" column="10" filename="$USER_HOME$/Opoint/api/requirements.txt" />
+      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
+      <jump line="38" column="63" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -733,11 +734,11 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="&quot;" type="4">
+        <text>'./static/chromedriver'</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>'./static/chromedriver'</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -745,32 +746,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      <register name="1" type="4">
+        <text>'./static/chromedriver'</text>
       </register>
-      <register name="2" type="4">
-        <text>6</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjaHJvbWVfYmluYXJ5ID0K</text>
       </register>
       <register name="3" type="4">
+        <text>'osx' if platform.system() == 'Darwin' else 'linux'</text>
+      </register>
+      <register name="4" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
+      </register>
+      <register name="5" type="4">
+        <text>6</text>
+      </register>
+      <register name="6" type="4">
         <text>dth=1024, height=768, colordepth=16</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text />
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB4dmZiLnN0YXJ0KCkK</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZnJvbSB4dmZid3JhcHBlciBpbXBvcnQgWHZmYgo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
