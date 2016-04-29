@@ -50,10 +50,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461919038263">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="102" />
-        <mark key="." line="33" column="66" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461919736456">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="31" column="4" />
+        <mark key="." line="31" column="4" />
         <mark key="^" line="33" column="66" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
@@ -733,8 +733,8 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
+      <register name="&quot;" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="-" type="4">
         <text>6</text>
@@ -745,32 +745,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>6</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAg</text>
       </register>
       <register name="2" type="4">
-        <text>dth=1024, height=768, colordepth=16</text>
+        <text>6</text>
       </register>
       <register name="3" type="4">
+        <text>dth=1024, height=768, colordepth=16</text>
+      </register>
+      <register name="4" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB4dmZiLnN0YXJ0KCkK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB4dmZiLnN0YXJ0KCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ZnJvbSB4dmZid3JhcHBlciBpbXBvcnQgWHZmYgo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
