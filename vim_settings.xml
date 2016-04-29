@@ -21,6 +21,11 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/requirements.txt" timestamp="1461914136953">
+        <mark key="'" line="19" column="10" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="88" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/suggestions.py" timestamp="1461047467053">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="36" />
@@ -45,11 +50,10 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461854887590">
-        <mark key="[" line="26" column="46" />
-        <mark key="]" line="26" column="59" />
-        <mark key="." line="26" column="59" />
-        <mark key="^" line="26" column="59" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461914346024">
+        <mark key="]" line="22" column="3" />
+        <mark key="." line="22" column="3" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -106,6 +110,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/requirements.txt" timestamp="1461914270719">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="7" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1458566453104">
         <mark key="'" line="107" column="20" />
@@ -190,7 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="39" column="1" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="175" column="75" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="91" column="44" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -290,6 +299,7 @@
       <jump line="18" column="4" filename="$USER_HOME$/Opoint/api/docs/alerts.rst" />
       <jump line="8" column="0" filename="$USER_HOME$/Opoint/api/docs/alerts.rst" />
       <jump line="460" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="19" column="10" filename="$USER_HOME$/Opoint/api/requirements.txt" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -722,16 +732,16 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9kZXYubXlzcWwuY29tL2dldC9Eb3dubG9hZHMvQ29ubmVjdG9yLVB5dGhvbi9teXNxbC1jb25uZWN0b3ItcHl0aG9uLTIuMS4zLnRhci5nego=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodHRwc1w+</text>
+        <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9kZXYubXlzcWwuY29tL2dldC9Eb3dubG9hZHMvQ29ubmVjdG9yLVB5dGhvbi9teXNxbC1jb25uZWN0b3ItcHl0aG9uLTIuMS4zLnRhci5nego=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -765,9 +775,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodHRwc1w+</last-search>
+      <last-search>mysql</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodHRwc1w+</last-pattern>
+      <last-pattern>mysql</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -775,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>for stimestamp</entry>
         <entry>mode == 'delete</entry>
         <entry>agents</entry>
@@ -795,6 +804,7 @@
         <entry>remove</entry>
         <entry>header</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
+        <entry>mysql</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -815,8 +825,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
