@@ -50,8 +50,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461915714815">
-        <mark key="[" line="13" column="29" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1461917334526">
+        <mark key="[" line="34" column="17" />
+        <mark key="]" line="34" column="116" />
+        <mark key="." line="34" column="116" />
+        <mark key="^" line="34" column="116" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1458289607207">
         <mark key="[" line="40" column="27" />
@@ -59,11 +62,11 @@
         <mark key="." line="40" column="33" />
         <mark key="^" line="40" column="33" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/single-page-agent/config.ini" timestamp="1461915575930">
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/single-page-agent/config.ini" timestamp="1461917282581">
+        <mark key="[" line="1" column="10" />
+        <mark key="]" line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+        <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/__init__.py" timestamp="1457526594949">
         <mark key="[" line="0" column="0" />
@@ -166,19 +169,13 @@
         <mark key="." line="170" column="66" />
         <mark key="^" line="170" column="43" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" timestamp="1458558979768">
-        <mark key="'" line="61" column="8" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="66" column="34" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/checks.py" timestamp="1456744268189">
         <mark key="[" line="14" column="45" />
         <mark key="]" line="15" column="34" />
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1461569748898">
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1461917271443">
         <mark key="'" line="279" column="26" />
         <mark key="[" line="267" column="0" />
         <mark key="]" line="267" column="0" />
@@ -737,12 +734,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>user='scott', password='tiger',
-                                  host='127.0.0.1',
-                                  database='employees'</text>
+        <text>http://aftenposten.no</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>http://aftenposten.no</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -751,33 +746,33 @@
         <text encoding="base64">aHR0cHM6Ly9kZXYubXlzcWwuY29tL2dldC9Eb3dubG9hZHMvQ29ubmVjdG9yLVB5dGhvbi9teXNxbC1jb25uZWN0b3ItcHl0aG9uLTIuMS4zLnRhci5nego=</text>
       </register>
       <register name="1" type="4">
+        <text>http://aftenposten.no</text>
+      </register>
+      <register name="2" type="4">
         <text>user='scott', password='tiger',
                                   host='127.0.0.1',
                                   database='employees'</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50KG15c3FsX2RpY3QpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KGRpY3QoY29uZmlnWydNWVNRTCddKSkK</text>
+        <text encoding="base64">ICAgIHByaW50KG15c3FsX2RpY3QpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Q29tcHJlc3Npb24gPSB5ZXMKQ29tcHJlc3Npb25MZXZlbCA9IDkKRm9yd2FyZFgxMSA9IHllcwo=</text>
+        <text encoding="base64">ICAgIHByaW50KGRpY3QoY29uZmlnWydNWVNRTCddKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Q29tcHJlc3Npb24gPSB5ZXMKQ29tcHJlc3Npb25MZXZlbCA9IDkKRm9yd2FyZFgxMSA9IHllcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PT09PT09PT09PT09PT09Cg==</text>
+        <text encoding="base64">ICAgIHBhcnNlci5hZGRfYXJndW1lbnQoJy0tJykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -834,8 +829,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
         <entry>wqa</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
