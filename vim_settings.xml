@@ -27,21 +27,18 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="88" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/common/suggestions.py" timestamp="1461047467053">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="36" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/searchd/views.py" timestamp="1461151209329">
         <mark key="[" line="50" column="31" />
         <mark key="]" line="68" column="35" />
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462176873631">
-        <mark key="[" line="542" column="39" />
-        <mark key="]" line="542" column="39" />
-        <mark key="." line="542" column="39" />
-        <mark key="^" line="542" column="72" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462178081466">
+        <mark key="'" line="394" column="38" />
+        <mark key="[" line="541" column="19" />
+        <mark key="]" line="541" column="16" />
+        <mark key="^" line="541" column="16" />
+        <mark key="." line="541" column="16" />
       </file>
       <file name="$USER_HOME$/Opoint/api/docs/alerts.rst" timestamp="1461666128071">
         <mark key="'" line="8" column="0" />
@@ -121,12 +118,12 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="0" column="7" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1458566453104">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1462177856942">
         <mark key="'" line="107" column="20" />
-        <mark key="[" line="72" column="16" />
-        <mark key="]" line="72" column="48" />
-        <mark key="." line="72" column="48" />
-        <mark key="^" line="72" column="48" />
+        <mark key="[" line="114" column="11" />
+        <mark key="]" line="114" column="10" />
+        <mark key="^" line="114" column="10" />
+        <mark key="." line="114" column="10" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/__init__.py" timestamp="1457525956011">
         <mark key="[" line="157" column="37" />
@@ -196,10 +193,13 @@
         <mark key="^" line="24" column="28" />
         <mark key="." line="24" column="28" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/generated_models.py" timestamp="1462177847711">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="2368" column="0" />
+        <mark key="]" line="2385" column="28" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
-      <jump line="9" column="37" filename="$USER_HOME$/Opoint/api/opoint/users/models.py" />
       <jump line="118" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="195" column="17" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
@@ -298,6 +298,8 @@
       <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
       <jump line="38" column="63" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
       <jump line="542" column="42" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="13" column="0" filename="$USER_HOME$/Opoint/api/generated_models.py" />
+      <jump line="394" column="38" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -729,17 +731,17 @@
           <key char="65535" code="10" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y2xhc3MgTWFpbGxvZyhtb2RlbHMuTW9kZWwpOgogICAgaWQgPSBtb2RlbHMuSW50ZWdlckZpZWxkKHByaW1hcnlfa2V5PVRydWUpICAjIEF1dG9GaWVsZD8KICAgIGlkX2l0ZW0gPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGFwcGxpY2F0aW9uX2lkID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBqb2JfaWQgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIHN0aW1lc3RhbXAgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIG1zZ19pZCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNSwgYmxhbms9VHJ1ZSkKICAgIG1haWxfc3ViamVjdCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTUsIGJsYW5rPVRydWUpCiAgICBtYWlsX2Zyb20gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1LCBibGFuaz1UcnVlKQogICAgbWFpbF90byA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSkKICAgIHNlbnRfdG8gPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUpCiAgICBzdGF0dXMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTEsIGJsYW5rPVRydWUpCiAgICBsZW4gPSBtb2RlbHMuSW50ZWdlckZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIGNvbnRlbnQgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtYW5hZ2VkID0gRmFsc2UKICAgICAgICBkYl90YWJsZSA9ICdNYWlsTG9nJwo=</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>MailLog</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
+        <text encoding="base64">Y2xhc3MgTWFpbGxvZyhtb2RlbHMuTW9kZWwpOgogICAgaWQgPSBtb2RlbHMuSW50ZWdlckZpZWxkKHByaW1hcnlfa2V5PVRydWUpICAjIEF1dG9GaWVsZD8KICAgIGlkX2l0ZW0gPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIGFwcGxpY2F0aW9uX2lkID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCiAgICBqb2JfaWQgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIHN0aW1lc3RhbXAgPSBtb2RlbHMuSW50ZWdlckZpZWxkKCkKICAgIG1zZ19pZCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNSwgYmxhbms9VHJ1ZSkKICAgIG1haWxfc3ViamVjdCA9IG1vZGVscy5DaGFyRmllbGQobWF4X2xlbmd0aD0yNTUsIGJsYW5rPVRydWUpCiAgICBtYWlsX2Zyb20gPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MjU1LCBibGFuaz1UcnVlKQogICAgbWFpbF90byA9IG1vZGVscy5UZXh0RmllbGQoYmxhbms9VHJ1ZSkKICAgIHNlbnRfdG8gPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUpCiAgICBzdGF0dXMgPSBtb2RlbHMuQ2hhckZpZWxkKG1heF9sZW5ndGg9MTEsIGJsYW5rPVRydWUpCiAgICBsZW4gPSBtb2RlbHMuSW50ZWdlckZpZWxkKGJsYW5rPVRydWUsIG51bGw9VHJ1ZSkKICAgIGNvbnRlbnQgPSBtb2RlbHMuVGV4dEZpZWxkKGJsYW5rPVRydWUpCgogICAgY2xhc3MgTWV0YToKICAgICAgICBtYW5hZ2VkID0gRmFsc2UKICAgICAgICBkYl90YWJsZSA9ICdNYWlsTG9nJwo=</text>
       </register>
       <register name="1" type="4">
         <text>)</text>
@@ -773,9 +775,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mysql</last-search>
+      <last-search>MailLog</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>MailLog</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -783,7 +785,6 @@
     </search>
     <history>
       <history-search>
-        <entry>for stimestamp</entry>
         <entry>mode == 'delete</entry>
         <entry>agents</entry>
         <entry>agentjob</entry>
@@ -803,6 +804,7 @@
         <entry>header</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>mysql</entry>
+        <entry>MailLog</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
