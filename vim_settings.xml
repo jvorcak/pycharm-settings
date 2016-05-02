@@ -37,12 +37,11 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1461930232834">
-        <mark key="'" line="541" column="42" />
-        <mark key="[" line="541" column="46" />
-        <mark key="]" line="543" column="72" />
-        <mark key="." line="543" column="72" />
-        <mark key="^" line="543" column="72" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462176873631">
+        <mark key="[" line="542" column="39" />
+        <mark key="]" line="542" column="39" />
+        <mark key="." line="542" column="39" />
+        <mark key="^" line="542" column="72" />
       </file>
       <file name="$USER_HOME$/Opoint/api/docs/alerts.rst" timestamp="1461666128071">
         <mark key="'" line="8" column="0" />
@@ -731,10 +730,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'http://www.aftenposten.no/webtv/#!/video/111524/Denne-bussen-er-21-meter-lang-og-rommer-190-personer'</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>'http://www.aftenposten.no/webtv/#!/video/111524/Denne-bussen-er-21-meter-lang-og-rommer-190-personer'</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
@@ -743,31 +742,31 @@
         <text encoding="base64">ICAgICAgICBjaHJvbWVfb3B0aW9ucy5hZGRfZXh0ZW5kdGg9MTAyNCwgaGVpZ2h0PTc2OCwgY29sb3JkZXB0aD0xIHNpb24oJy4vc3RhdGljL3NpbmdsZWZpbGVjb3JlLmNyeCcpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>'http://www.aftenposten.no/webtv/#!/video/111524/Denne-bussen-er-21-meter-lang-og-rommer-190-personer'</text>
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoKQo=</text>
+      <register name="3" type="4">
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>s</text>
       </register>
       <register name="5" type="4">
-        <text>o</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>l</text>
+        <text>o</text>
       </register>
       <register name="7" type="4">
-        <text>_</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>y</text>
+        <text>s</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
