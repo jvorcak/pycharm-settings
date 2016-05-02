@@ -10,11 +10,11 @@
         <mark key="." line="88" column="39" />
         <mark key="^" line="88" column="39" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1462193434550">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="22" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="16" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1462194157405">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="43" column="19" />
       </file>
       <file name="/Python Console" timestamp="1462173840624">
         <mark key="[" line="0" column="0" />
@@ -33,8 +33,8 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462193219853">
-        <mark key="'" line="310" column="25" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462194122783">
+        <mark key="'" line="28" column="35" />
         <mark key="[" line="541" column="0" />
         <mark key="]" line="541" column="0" />
         <mark key="." line="541" column="0" />
@@ -200,8 +200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
-      <jump line="28" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
       <jump line="37" column="7" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
       <jump line="32" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
       <jump line="36" column="37" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
@@ -300,6 +298,8 @@
       <jump line="703" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="643" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="310" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="557" column="29" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="28" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1667,52 +1667,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjLmV4ZWN1dGUoc3FsKQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChzcWwpCg==</text>
       </register>
       <register name="-" type="4">
         <text>T</text>
       </register>
       <register name="/" type="4">
-        <text>DELETE</text>
+        <text>remove_alert_articles</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGM6CiAgICAgICAgICAgICAgICBjLmV4ZWN1dGUoIlNFTEVDVCBpZF9pdGVtIEZST00gU2NoZWR1bGVJdGVtcyBXSEVSRSBjbGFzcyA9ICVzIiwgcGspCiAgICAgICAgICAgICAgICBpZF9iYXNrZXRzID0gW3hbMF0gKyAxMCAqKiA5IGZvciB4IGluIGMuZmV0Y2hhbGwoKV0KCiAgICAgICAgICAgICAgICBvcl9zdGF0ZW1lbnQgPSAnIE9SICcuam9pbihbCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJyhpZF9zaXRlID0ge2lkX3NpdGV9IEFORCBpZF9hcnRpY2xlID0ge2lkX2FydGljbGV9KScuZm9ybWF0KCoqYXJ0aWNsZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmb3IgYXJ0aWNsZSBpbiBzZXJpYWxpemVyLnZhbGlkYXRlZF9kYXRhWydhcnRpY2xlcyddCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgXSkKCiAgICAgICAgICAgICAgICBzcWwgPSAiIiJVUERBVEUgQXJ0aWNsZUJhc2tldCBTRVQgc3RpbWVzdGFtcF91c2VkID0gLSgoMTw8MzEpLTEtVU5JWF9USU1FU1RBTVAoKSkgV0hFUkUKICAgICAgICAgICAgICAgICAgKHt9KSBBTkQgQXJ0aWNsZUJhc2tldC5pZF9iYXNrZXQgSU4gKHt9KQogICAgICAgICAgICAgICAgIiIiLmZvcm1hdChvcl9zdGF0ZW1lbnQsICcsJy5qb2luKG1hcChzdHIsIGlkX2Jhc2tldHMpKSkKCiAgICAgICAgICAgICAgICBjLmV4ZWN1dGUoc3FsKQogICAgICAgICAgICAgICAgcHJpbnQoc3FsKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjLmV4ZWN1dGUoc3FsKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHdpdGggY29ubmVjdGlvbi5jdXJzb3IoKSBhcyBjOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGMgPSBjb25uZWN0aW9uLmN1cnNvcigpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBwcmludChzcWwpCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjLmV4ZWN1dGUoc3FsKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdpdGggY29ubmVjdGlvbi5jdXJzb3IoKSBhcyBjOgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGMgPSBjb25uZWN0aW9uLmN1cnNvcigpCg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwcmludChzcWwpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>T</text>
-      </register>
-      <register name="8" type="4">
-        <text>)</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQocGssIHNlcmlhbGl6ZXIudmFsaWRhdGVkX2RhdGFbJ2FydGljbGVzJ10pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>DELETE</last-search>
+      <last-search>remove_alert_articles</last-search>
       <last-offset />
-      <last-pattern>DELETE</last-pattern>
+      <last-pattern>remove_alert_articles</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -1720,7 +1720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__run_texrunner</entry>
         <entry encoding="base64">XDx0bXBfeG1sX25hbWVcPg==</entry>
         <entry encoding="base64">XDx0bXBfdGV4X25hbWVcPg==</entry>
         <entry encoding="base64">XDx1bnRhZ19hbGxfZmVlZF9hcnRpY2xlc1w+</entry>
@@ -1740,6 +1739,7 @@
         <entry encoding="base64">ID0gMjA=</entry>
         <entry>page_size</entry>
         <entry>DELETE</entry>
+        <entry>remove_alert_articles</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -1760,8 +1760,8 @@
         <entry>wqa</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
