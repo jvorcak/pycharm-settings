@@ -62,8 +62,8 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" timestamp="1462284320346">
-        <mark key="'" line="18" column="55" />
+      <file name="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" timestamp="1462286083569">
+        <mark key="'" line="193" column="17" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" timestamp="1462277018508">
         <mark key="'" line="170" column="0" />
@@ -178,9 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="7" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
-      <jump line="42" column="47" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
-      <jump line="192" column="29" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="2" column="35" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="93" column="47" filename="$USER_HOME$/Opoint/api/opoint/tags/serializers.py" />
       <jump line="69" column="77" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -278,6 +275,9 @@
       <jump line="170" column="0" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
       <jump line="124" column="4" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="18" column="55" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
+      <jump line="164" column="32" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
+      <jump line="192" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
+      <jump line="193" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1651,7 +1651,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>summary</text>
+        <text>include</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxcyA9IHNlbGYuZmlsdGVyX3F1ZXJ5c2V0KHNlbGYucXVlcnlzZXQpLnZhbHVlcygKICAgICAgICAgICAgJ2NsYXNzX2ZpZWxkJywKICAgICAgICAgICAgJ3N1YmplY3QnLAogICAgICAgICAgICAnYWN0aXZlJywKICAgICAgICAgICAgJ3R5cGUnCiAgICAgICAgKS5kaXN0aW5jdCgpCgogICAgICAgIGFsZXJ0cyA9IFtBbGVydCgqKngpIGZvciB4IGluIHFzXQogICAgICAgIHNlcmlhbGl6ZXIgPSBBbGVydFNlcmlhbGl6ZXIoCiAgICAgICAgICAgIGFsZXJ0cywKICAgICAgICAgICAgbWFueT1UcnVlLAogICAgICAgICAgICBjb250ZXh0PXsKICAgICAgICAgICAgICAgICdyZXF1ZXN0JzogcmVxdWVzdAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
@@ -1688,9 +1688,9 @@
       </register>
     </registers>
     <search>
-      <last-search>summary</last-search>
+      <last-search>include</last-search>
       <last-offset />
-      <last-pattern>summary</last-pattern>
+      <last-pattern>include</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -1698,7 +1698,6 @@
     </search>
     <history>
       <history-search>
-        <entry>serializer</entry>
         <entry>get_object</entry>
         <entry>chapter_id</entry>
         <entry>transform</entry>
@@ -1718,6 +1717,7 @@
         <entry>email</entry>
         <entry>sms</entry>
         <entry>summary</entry>
+        <entry>include</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
