@@ -3,6 +3,13 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Opoint/api/opoint/urls.py" timestamp="1458298178319">
+        <mark key="'" line="9" column="12" />
+        <mark key="[" line="87" column="45" />
+        <mark key="]" line="88" column="39" />
+        <mark key="." line="88" column="39" />
+        <mark key="^" line="88" column="39" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1462194157405">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -20,6 +27,13 @@
         <mark key="]" line="68" column="35" />
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/docs/alerts.rst" timestamp="1461666128071">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="8" column="19" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -91,7 +105,6 @@
         <mark key="." line="45" column="19" />
         <mark key="^" line="45" column="19" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/api_uwsgi.ini" timestamp="1461916263144" />
       <file name="$USER_HOME$/PycharmProjects/static-html-crawler/crawler.py" timestamp="1461742186326">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="5" column="0" />
@@ -125,13 +138,21 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" timestamp="1458567204674">
+        <mark key="'" line="21" column="43" />
+        <mark key="[" line="135" column="12" />
+        <mark key="]" line="136" column="6" />
+        <mark key="." line="136" column="6" />
+        <mark key="^" line="136" column="6" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/common/auth.py" timestamp="1457526845198">
         <mark key="[" line="3" column="27" />
         <mark key="]" line="3" column="27" />
         <mark key="." line="3" column="27" />
         <mark key="^" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" timestamp="1457345337672">
+      <file name="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" timestamp="1462351984481">
+        <mark key="'" line="66" column="6" />
         <mark key="[" line="55" column="12" />
         <mark key="]" line="55" column="25" />
         <mark key="." line="55" column="25" />
@@ -172,6 +193,13 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1456490666506">
+        <mark key="'" line="258" column="4" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="56" />
+        <mark key="." line="239" column="86" />
+        <mark key="^" line="239" column="86" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/SingleFileChromeExtension/WebContent/ui/manifest.json" timestamp="1461852613413">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="28" />
@@ -185,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="48" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="117" column="30" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="211" column="38" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="158" column="34" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -285,6 +312,7 @@
       <jump line="79" column="24" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="80" column="22" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="191" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
+      <jump line="66" column="6" filename="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1658,7 +1686,7 @@
         <text>unittest.TestCase</text>
       </register>
       <register name="/" type="4">
-        <text>access</text>
+        <text>add_user_properties</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxcyA9IHNlbGYuZmlsdGVyX3F1ZXJ5c2V0KHNlbGYucXVlcnlzZXQpLnZhbHVlcygKICAgICAgICAgICAgJ2NsYXNzX2ZpZWxkJywKICAgICAgICAgICAgJ3N1YmplY3QnLAogICAgICAgICAgICAnYWN0aXZlJywKICAgICAgICAgICAgJ3R5cGUnCiAgICAgICAgKS5kaXN0aW5jdCgpCgogICAgICAgIGFsZXJ0cyA9IFtBbGVydCgqKngpIGZvciB4IGluIHFzXQogICAgICAgIHNlcmlhbGl6ZXIgPSBBbGVydFNlcmlhbGl6ZXIoCiAgICAgICAgICAgIGFsZXJ0cywKICAgICAgICAgICAgbWFueT1UcnVlLAogICAgICAgICAgICBjb250ZXh0PXsKICAgICAgICAgICAgICAgICdyZXF1ZXN0JzogcmVxdWVzdAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
@@ -1695,9 +1723,9 @@
       </register>
     </registers>
     <search>
-      <last-search>access</last-search>
+      <last-search>add_user_properties</last-search>
       <last-offset />
-      <last-pattern>access</last-pattern>
+      <last-pattern>add_user_properties</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -1705,7 +1733,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chapter_id</entry>
         <entry>transform</entry>
         <entry>remove</entry>
         <entry>header</entry>
@@ -1725,6 +1752,7 @@
         <entry>summary</entry>
         <entry>include</entry>
         <entry>access</entry>
+        <entry>add_user_properties</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
