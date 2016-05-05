@@ -134,7 +134,9 @@
         <mark key="^" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462443429090" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462453176299">
+        <mark key="'" line="100" column="24" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/docs/alerts.rst" timestamp="1461666128071">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="8" column="19" />
@@ -214,18 +216,8 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/profiles/models.py" timestamp="1462445482476">
-        <mark key="[" line="130" column="77" />
-        <mark key="]" line="132" column="85" />
-        <mark key="." line="132" column="85" />
-        <mark key="^" line="132" column="85" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="211" column="38" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="158" column="34" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="183" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="9" column="31" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="39" column="42" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
       <jump line="9" column="31" filename="$USER_HOME$/Opoint/api/opoint/feeds/models.py" />
       <jump line="171" column="19" filename="$USER_HOME$/Opoint/api/opoint/tags/models.py" />
@@ -322,6 +314,10 @@
       <jump line="191" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="66" column="6" filename="$USER_HOME$/Opoint/api/opoint/searchd/__init__.py" />
       <jump line="304" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="254" column="6" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="358" column="63" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="422" column="63" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="100" column="24" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1695,7 +1691,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>delete_tag</text>
+        <text>locale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBxcyA9IHNlbGYuZmlsdGVyX3F1ZXJ5c2V0KHNlbGYucXVlcnlzZXQpLnZhbHVlcygKICAgICAgICAgICAgJ2NsYXNzX2ZpZWxkJywKICAgICAgICAgICAgJ3N1YmplY3QnLAogICAgICAgICAgICAnYWN0aXZlJywKICAgICAgICAgICAgJ3R5cGUnCiAgICAgICAgKS5kaXN0aW5jdCgpCgogICAgICAgIGFsZXJ0cyA9IFtBbGVydCgqKngpIGZvciB4IGluIHFzXQogICAgICAgIHNlcmlhbGl6ZXIgPSBBbGVydFNlcmlhbGl6ZXIoCiAgICAgICAgICAgIGFsZXJ0cywKICAgICAgICAgICAgbWFueT1UcnVlLAogICAgICAgICAgICBjb250ZXh0PXsKICAgICAgICAgICAgICAgICdyZXF1ZXN0JzogcmVxdWVzdAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
@@ -1732,9 +1728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>delete_tag</last-search>
+      <last-search>locale</last-search>
       <last-offset />
-      <last-pattern>delete_tag</last-pattern>
+      <last-pattern>locale</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
       <last-dir>1</last-dir>
@@ -1742,7 +1738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
         <entry>header</entry>
         <entry encoding="base64">XDxodHRwc1w+</entry>
         <entry>mysql</entry>
@@ -1762,6 +1757,7 @@
         <entry>access</entry>
         <entry>add_user_properties</entry>
         <entry>delete_tag</entry>
+        <entry>locale</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
