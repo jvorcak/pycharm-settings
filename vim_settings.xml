@@ -213,6 +213,12 @@
         <mark key="." line="15" column="34" />
         <mark key="^" line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/profiles/models.py" timestamp="1462438195241">
+        <mark key="[" line="126" column="71" />
+        <mark key="]" line="127" column="10" />
+        <mark key="^" line="127" column="10" />
+        <mark key="." line="127" column="10" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="211" column="38" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -1682,10 +1688,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>unittest.TestCase</text>
+        <text>do_something_when_user_updated</text>
       </register>
       <register name="-" type="4">
-        <text>unittest.TestCase</text>
+        <text>do_something_when_user_updated</text>
       </register>
       <register name="/" type="4">
         <text>delete_tag</text>
@@ -1694,31 +1700,31 @@
         <text encoding="base64">ICAgICAgICBxcyA9IHNlbGYuZmlsdGVyX3F1ZXJ5c2V0KHNlbGYucXVlcnlzZXQpLnZhbHVlcygKICAgICAgICAgICAgJ2NsYXNzX2ZpZWxkJywKICAgICAgICAgICAgJ3N1YmplY3QnLAogICAgICAgICAgICAnYWN0aXZlJywKICAgICAgICAgICAgJ3R5cGUnCiAgICAgICAgKS5kaXN0aW5jdCgpCgogICAgICAgIGFsZXJ0cyA9IFtBbGVydCgqKngpIGZvciB4IGluIHFzXQogICAgICAgIHNlcmlhbGl6ZXIgPSBBbGVydFNlcmlhbGl6ZXIoCiAgICAgICAgICAgIGFsZXJ0cywKICAgICAgICAgICAgbWFueT1UcnVlLAogICAgICAgICAgICBjb250ZXh0PXsKICAgICAgICAgICAgICAgICdyZXF1ZXN0JzogcmVxdWVzdAogICAgICAgICAgICB9CiAgICAgICAgKQogICAgICAgIHJldHVybiBSZXNwb25zZShzZXJpYWxpemVyLmRhdGEpCg==</text>
       </register>
       <register name="1" type="4">
+        <text>do_something_when_user_updated</text>
+      </register>
+      <register name="2" type="4">
         <text>unittest.TestCase</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">cGxhCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHJldHVybiBwbGF5X2dhbWUoKQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">VgopCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdHlwZT1BbGVydC5TTVMK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcG9uc2UoewogICAgICAgICAgICAnZW1haWwnOiByZXZlcnNlKCdhbGVydC1lbWFpbCcsIHJlcXVlc3Q9cmVxdWVzdCksCiAgICAgICAgICAgICdzbXMnOiByZXZlcnNlKCdhbGVydC1zbXMnLCByZXF1ZXN0PXJlcXVlc3QpLAogICAgICAgIH0pCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ2VtYWlsJzogcmV2ZXJzZSgnYWxlcnQtZW1haWwnLCByZXF1ZXN0PXJlcXVlc3QpLAogICAgICAgICAgICAnc21zJzogcmV2ZXJzZSgnYWxlcnQtc21zJywgcmVxdWVzdD1yZXF1ZXN0KSwKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlZiBsaXN0KHNlbGYsIHJlcXVlc3QsICphcmdzLCAqKmt3YXJncyk6CiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ2VtYWlsJzogcmV2ZXJzZSgnYWxlcnQtZW1haWwnLCByZXF1ZXN0PXJlcXVlc3QpLAogICAgICAgICAgICAnc21zJzogcmV2ZXJzZSgnYWxlcnQtc21zJywgcmVxdWVzdD1yZXF1ZXN0KSwKICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
