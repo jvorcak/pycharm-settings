@@ -105,6 +105,8 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="109" column="0" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/api_uwsgi.ini" timestamp="1461916263144" />
+      <file name="$USER_HOME$/Opoint/api/opoint/templates/views.py" timestamp="1462434730208" />
       <file name="$USER_HOME$/PycharmProjects/static-html-crawler/crawler.py" timestamp="1461742186326">
         <mark key="[" line="3" column="31" />
         <mark key="]" line="5" column="0" />
