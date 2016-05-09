@@ -200,6 +200,13 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1462801866591">
+        <mark key="'" line="469" column="14" />
+        <mark key="[" line="468" column="35" />
+        <mark key="]" line="469" column="45" />
+        <mark key="^" line="469" column="45" />
+        <mark key="." line="469" column="45" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1456490666506">
         <mark key="'" line="258" column="4" />
         <mark key="[" line="212" column="0" />
@@ -220,46 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="19" filename="$USER_HOME$/Opoint/api/opoint/tags/models.py" />
-      <jump line="231" column="8" filename="$USER_HOME$/Opoint/api/opoint/tags/models.py" />
-      <jump line="280" column="8" filename="$USER_HOME$/Opoint/api/opoint/tags/models.py" />
-      <jump line="50" column="0" filename="$USER_HOME$/Opoint/api/opoint/tags/serializers.py" />
-      <jump line="26" column="25" filename="$USER_HOME$/Opoint/api/opoint/tags/views.py" />
-      <jump line="99" column="0" filename="$USER_HOME$/Opoint/api/opoint/tags/views.py" />
-      <jump line="269" column="0" filename="$USER_HOME$/Opoint/api/opoint/tags/views.py" />
-      <jump line="58" column="13" filename="$USER_HOME$/Opoint/api/opoint/tags/views.py" />
-      <jump line="90" column="15" filename="$USER_HOME$/Opoint/api/opoint/tags/views.py" />
-      <jump line="279" column="26" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
-      <jump line="66" column="0" filename="$USER_HOME$/Opoint/api/opoint/urls.py" />
-      <jump line="9" column="12" filename="$USER_HOME$/Opoint/api/opoint/urls.py" />
-      <jump line="23" column="10" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="66" column="37" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="56" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="47" column="27" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="46" column="15" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="134" column="45" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="89" column="41" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="108" column="30" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
-      <jump line="167" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="169" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="148" column="10" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="16" column="19" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="12" column="4" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="16" column="6" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="11" column="6" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="8" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="69" column="8" filename="$USER_HOME$/Opoint/api/opoint/feeds/tasks.py" />
-      <jump line="208" column="28" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="219" column="14" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="220" column="24" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="6" column="19" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="7" column="21" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="11" column="27" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="20" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="43" column="21" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="45" column="9" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
-      <jump line="47" column="14" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="67" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="68" column="14" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="70" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -320,6 +287,46 @@
       <jump line="100" column="24" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="132" column="0" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="251" column="52" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
+      <jump line="426" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="438" column="10" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="448" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="467" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="472" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="229" column="37" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="394" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="239" column="21" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="393" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="449" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="267" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="92" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="266" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="153" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="155" column="12" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="126" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="206" column="12" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="127" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="198" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="166" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="399" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="167" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="404" column="13" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="183" column="13" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="406" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="182" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="194" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="186" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="190" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="202" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="222" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="480" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="476" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="471" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="452" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="437" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="413" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="220" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="469" column="14" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1686,80 +1693,80 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>print</text>
+        <text encoding="base64">XDxjcmVhdGVfeG1sXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">bG9nZ2VyID0gbG9nZ2luZy5nZXRMb2dnZXIoX19uYW1lX18pCg==</text>
+        <text encoding="base64">ICAgICAgICB4bWwgPSBzZWxmLmNyZWF0ZV94bWwoc2VsZi50ZW1wbGF0ZSwgc2VhcmNoPU5vbmUsIHByZXZpZXc9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIDpwYXJhbSBzZW5kZXI6IAogICAgOnBhcmFtIGluc3RhbmNlOiAKICAgIDpwYXJhbSBjcmVhdGVkOiAKICAgIDpwYXJhbSBrd2FyZ3M6IAo=</text>
+      <register name="2" type="4">
+        <text>f</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>l</text>
       </register>
       <register name="4" type="4">
-        <text>=</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
-      </register>
-      <register name="6" type="4">
         <text>s</text>
       </register>
+      <register name="6" type="4">
+        <text>.</text>
+      </register>
       <register name="7" type="4">
-        <text>q</text>
+        <text>f</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChpbnN0YW5jZS5pZF9saXN0ICogMTAwLCBpbnN0YW5jZS5pZF9saXN0ICogMTAwICsgOTksIGNyZWF0ZWQpCg==</text>
+      <register name="8" type="4">
+        <text>l</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChxcy5xdWVyeSkK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>print</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfeG1sXD4=</last-search>
       <last-offset />
-      <last-pattern>print</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfeG1sXD4=</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mysql</entry>
-        <entry>MailLog</entry>
-        <entry>20</entry>
-        <entry encoding="base64">ID0gMjA=</entry>
-        <entry>page_size</entry>
-        <entry>DELETE</entry>
-        <entry>remove_alert_articles</entry>
-        <entry>ProfileDetailSerializer</entry>
-        <entry>invalida</entry>
-        <entry>invalidate</entry>
-        <entry>email</entry>
-        <entry>sms</entry>
-        <entry>summary</entry>
-        <entry>include</entry>
-        <entry>access</entry>
-        <entry>add_user_properties</entry>
-        <entry>delete_tag</entry>
-        <entry>locale</entry>
         <entry>logger</entry>
         <entry>print</entry>
+        <entry>create_xml</entry>
+        <entry encoding="base64">XDxfX3Bvc3Rwcm9jZXNzX3NlYXJjaGRcPg==</entry>
+        <entry encoding="base64">XDxwb3N0cHJvY2Vzc19zZWFyY2hkX3Jlc3BvbnNlXD4=</entry>
+        <entry>self</entry>
+        <entry encoding="base64">XDxzZWxmXD4=</entry>
+        <entry encoding="base64">XDxfX2NyZWF0ZV9jb25maWdfZWxlbWVudFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfY29uZmlnX2VsZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxfX2dlbmVyYXRlX2NvbmZpZ194bWxcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV9jb25maWdfeG1sXD4=</entry>
+        <entry encoding="base64">XDxfX2dlbmVyYXRlX3RhZ2NvbmZpZ194bWxcPg==</entry>
+        <entry>__generate</entry>
+        <entry>__generate_tagconfig_xml</entry>
+        <entry encoding="base64">XDxfX2dlbmVyYXRlX3RhZ19jb250ZW50XD4=</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV90YWdfY29udGVudFw+</entry>
+        <entry>generate_tag_content</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZV90YWdjb25maWdfeG1sXD4=</entry>
+        <entry encoding="base64">XDxSZXBvcnRDb25maWdDbGFzc1w+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfeG1sXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -1813,6 +1820,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>shift ctrl pressed 6</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
