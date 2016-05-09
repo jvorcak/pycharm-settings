@@ -31,8 +31,8 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462780850153">
-        <mark key="'" line="70" column="24" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462802729044">
+        <mark key="'" line="52" column="6" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -227,7 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="68" column="14" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="70" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="72" column="24" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -327,6 +326,7 @@
       <jump line="413" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="220" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="469" column="14" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="52" column="6" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1700,7 +1700,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVfeG1sXD4=</text>
+        <text>send_now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB4bWwgPSBzZWxmLmNyZWF0ZV94bWwoc2VsZi50ZW1wbGF0ZSwgc2VhcmNoPU5vbmUsIHByZXZpZXc9VHJ1ZSkK</text>
@@ -1737,17 +1737,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVfeG1sXD4=</last-search>
+      <last-search>send_now</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVfeG1sXD4=</last-pattern>
+      <last-pattern>send_now</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>logger</entry>
         <entry>print</entry>
         <entry>create_xml</entry>
         <entry encoding="base64">XDxfX3Bvc3Rwcm9jZXNzX3NlYXJjaGRcPg==</entry>
@@ -1767,6 +1766,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZV90YWdjb25maWdfeG1sXD4=</entry>
         <entry encoding="base64">XDxSZXBvcnRDb25maWdDbGFzc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfeG1sXD4=</entry>
+        <entry>send_now</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
