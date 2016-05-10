@@ -41,8 +41,11 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462802729044">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462881902797">
         <mark key="'" line="52" column="6" />
+        <mark key="]" line="560" column="25" />
+        <mark key="^" line="560" column="25" />
+        <mark key="." line="560" column="25" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
