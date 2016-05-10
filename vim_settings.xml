@@ -41,11 +41,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462881902797">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462883594579">
         <mark key="'" line="52" column="6" />
-        <mark key="]" line="560" column="25" />
-        <mark key="^" line="560" column="25" />
-        <mark key="." line="560" column="25" />
+        <mark key="[" line="561" column="78" />
+        <mark key="]" line="561" column="77" />
+        <mark key="^" line="561" column="77" />
+        <mark key="." line="561" column="77" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -1706,44 +1707,44 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3JlcG9ydChzZWxmKToK</text>
+      <register name="&quot;" type="4">
+        <text>k</text>
       </register>
       <register name="-" type="4">
-        <text>, engine=PDFEngine):</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxET0NYRW5naW5lXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlLCB1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2l0aCBjb25uZWN0aW9uLmN1cnNvcigpIGFzIGM6CiAgICAgICAgICAgICAgICBjLmV4ZWN1dGUoIlNFTEVDVCBpZF9pdGVtIEZST00gU2NoZWR1bGVJdGVtcyBXSEVSRSBjbGFzcyA9ICVzIiwgcGspCiAgICAgICAgICAgICAgICBpZF9iYXNrZXRzID0gW3hbMF0gKyAxMCAqKiA5IGZvciB4IGluIGMuZmV0Y2hhbGwoKV0KICAgICAgICAgICAgICAgIGlkX2Jhc2tldHNfc3RyID0gJywnLmpvaW4obWFwKHN0ciwgaWRfYmFza2V0cykpCgogICAgICAgICAgICAgICAgcGFnZV9udW1iZXIgPSBpbnQocmVxdWVzdC5HRVQuZ2V0KCdwYWdlJykgb3IgMSkKICAgICAgICAgICAgICAgIHBhZ2Vfc2l6ZSA9IDEwCiAgICAgICAgICAgICAgICBjLmV4ZWN1dGUoCiAgICAgICAgICAgICAgICAgICAgIlNFTEVDVCBDT1VOVCgqKSBBUyBjb3VudCBGUk9NIEFydGljbGVCYXNrZXQgV0hFUkUgaWRfYmFza2V0IElOICglcykgQU5EIE5PVCBzdGltZXN0YW1wX3VzZWQiLAogICAgICAgICAgICAgICAgICAgIGlkX2Jhc2tldHNfc3RyCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgICAgICBjb3VudCA9IGludChkaWN0ZmV0Y2hhbGwoYylbMF1bJ2NvdW50J10pCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3JlcG9ydChzZWxmKToK</text>
+      <register name="1" type="4">
+        <text>k</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4bWwsIHhzbHQ9J2h0bWxfcmVwb3J0LnhzbCcpOgogICAgICAgIHNlbGYueG1sID0geG1sCiAgICAgICAgc2VsZi54c2x0ID0geHNsdAo=</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAubWl4aW5zIGltcG9ydCBVbmlxdWVSZXBvcnROYW1lTWl4aW4K</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgRE9DWEVuZ2luZShVbmlxdWVSZXBvcnROYW1lTWl4aW4pOgo=</text>
+      <register name="4" type="4">
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>, engine=PDFEngine):</text>
+        <text>i</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IEhUTUxFbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlPXRlbXBsYXRlLCB1c2VyPXVzZXIpCiAgICByZXR1cm4gZW5naW5lLmNyZWF0ZV9yZXBvcnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZV9zaXplID0gMTAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZV9udW1iZXIgPSBpbnQocmVxdWVzdC5HRVQuZ2V0KCdwYWdlJykgb3IgMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlLCB1c2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeXNldCA9IE1haWxMb2cub2JqZWN0cy5maWx0ZXIoaWRfaXRlbT0wKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IFBERkVuZ2luZShyZXBvcnQsIHhtbCwgdGVtcGxhdGU9dGVtcGxhdGUsIHVzZXI9dXNlcikKICAgIHJldHVybiBlbmdpbmUuY3JlYXRlX3JlcG9ydCgpCg==</text>
+        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3JlcG9ydChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
