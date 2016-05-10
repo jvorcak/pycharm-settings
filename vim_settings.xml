@@ -10,12 +10,11 @@
         <mark key="^" line="56" column="69" />
         <mark key="." line="56" column="69" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/mixins.py" timestamp="1462875378040">
-        <mark key="'" line="54" column="8" />
-        <mark key="[" line="71" column="35" />
-        <mark key="]" line="71" column="35" />
-        <mark key="." line="71" column="35" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/docx.py" timestamp="1462879409834">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="56" />
+        <mark key="^" line="2" column="56" />
+        <mark key="." line="2" column="56" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1462194157405">
         <mark key="[" line="39" column="0" />
@@ -123,11 +122,11 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1462875884413">
-        <mark key="[" line="8" column="16" />
-        <mark key="]" line="8" column="10" />
-        <mark key="^" line="8" column="10" />
-        <mark key="." line="8" column="10" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1462879832118">
+        <mark key="[" line="7" column="16" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/static-html-crawler/crawler.py" timestamp="1461742186326">
         <mark key="[" line="3" column="31" />
@@ -143,12 +142,6 @@
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1462869553224">
-        <mark key="[" line="5" column="23" />
-        <mark key="]" line="5" column="50" />
-        <mark key="^" line="5" column="50" />
-        <mark key="." line="5" column="50" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1462444918924">
         <mark key="'" line="107" column="20" />
@@ -1710,8 +1703,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>, engine=PDFEngine):</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3JlcG9ydChzZWxmKToK</text>
       </register>
       <register name="-" type="4">
         <text>, engine=PDFEngine):</text>
@@ -1722,32 +1715,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlLCB1c2VyKQo=</text>
       </register>
-      <register name="1" type="4">
-        <text>, engine=PDFEngine):</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICBkZWYgY3JlYXRlX3JlcG9ydChzZWxmKToK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IEhUTUxFbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlPXRlbXBsYXRlLCB1c2VyPXVzZXIpCiAgICByZXR1cm4gZW5naW5lLmNyZWF0ZV9yZXBvcnQoKQo=</text>
+        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4bWwsIHhzbHQ9J2h0bWxfcmVwb3J0LnhzbCcpOgogICAgICAgIHNlbGYueG1sID0geG1sCiAgICAgICAgc2VsZi54c2x0ID0geHNsdAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSAubWl4aW5zIGltcG9ydCBVbmlxdWVSZXBvcnROYW1lTWl4aW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlLCB1c2VyKQo=</text>
+        <text encoding="base64">Y2xhc3MgRE9DWEVuZ2luZShVbmlxdWVSZXBvcnROYW1lTWl4aW4pOgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZ2luZSA9IFBERkVuZ2luZShyZXBvcnQsIHhtbCwgdGVtcGxhdGU9dGVtcGxhdGUsIHVzZXI9dXNlcikKICAgIHJldHVybiBlbmdpbmUuY3JlYXRlX3JlcG9ydCgpCg==</text>
+      <register name="5" type="4">
+        <text>, engine=PDFEngine):</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSAuZW5naW5lcy5kb2N4IGltcG9ydCBET0NYRW5naW5lCg==</text>
+        <text encoding="base64">ICAgIGVuZ2luZSA9IEhUTUxFbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlPXRlbXBsYXRlLCB1c2VyPXVzZXIpCiAgICByZXR1cm4gZW5naW5lLmNyZWF0ZV9yZXBvcnQoKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text>'pdf_report.xsl'</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>f</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUocmVwb3J0LCB4bWwsIHRlbXBsYXRlLCB1c2VyKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>l</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGVuZ2luZSA9IFBERkVuZ2luZShyZXBvcnQsIHhtbCwgdGVtcGxhdGU9dGVtcGxhdGUsIHVzZXI9dXNlcikKICAgIHJldHVybiBlbmdpbmUuY3JlYXRlX3JlcG9ydCgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
