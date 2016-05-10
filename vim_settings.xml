@@ -127,6 +127,12 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1462869553224">
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="50" />
+        <mark key="^" line="5" column="50" />
+        <mark key="." line="5" column="50" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1462444918924">
         <mark key="'" line="107" column="20" />
       </file>
@@ -200,12 +206,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1462867592638">
-        <mark key="'" line="469" column="14" />
-        <mark key="[" line="429" column="24" />
-        <mark key="]" line="429" column="28" />
-        <mark key="^" line="429" column="28" />
-        <mark key="." line="429" column="28" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1462869778523">
+        <mark key="[" line="431" column="14" />
+        <mark key="]" line="431" column="37" />
+        <mark key="^" line="431" column="37" />
+        <mark key="." line="431" column="37" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1456490666506">
         <mark key="'" line="258" column="4" />
@@ -227,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="14" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="70" column="20" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="72" column="24" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
       <jump line="73" column="15" filename="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" />
@@ -327,6 +331,7 @@
       <jump line="220" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="469" column="14" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="52" column="6" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="485" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1693,61 +1698,60 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
-        <text>send_now</text>
+        <text encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB4bWwgPSBzZWxmLmNyZWF0ZV94bWwoc2VsZi50ZW1wbGF0ZSwgc2VhcmNoPU5vbmUsIHByZXZpZXc9VHJ1ZSkK</text>
+        <text encoding="base64">ICAgIHJldHVybiBlbmdpbmUuY3JlYXRlX3JlcG9ydCgpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>f</text>
+      <register name="2" type="2">
+        <text encoding="base64">Y2xhc3MgUmVwb3J0R2VuZXJhdG9yKG9iamVjdCk6CiAgICAiIiIKICAgIENyZWF0ZXMgYSByZXBvcnQgYmFzZWQgb24gYW4gaW5wdXQgZmlsZSBhbmQgYSB0ZW1wbGF0ZQoKICAgIEB1c2FnZQoKICAgICMgZWl0aGVyIGRvIHRoaXMKICAgIHhtbCA9IGdlbmVyYXRvci5jcmVhdGVfeG1sKHRlbXBsYXRlLCBzZWFyY2gpCiAgICByZXBvcnQgPSBnZW5lcmF0b3IuY3JlYXRlX3JlcG9ydCh4bWwpCgogICAgIyBvciB1c2UgYSBzaG9ydGN1dAogICAgcmVwb3J0ID0gZ2VuZXJhdG9yLmNyZWF0ZV9wZGZfcmVwb3J0KHRlbXBsYXRlLCBzZWFyY2gpCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdXNlcl9pZCwgcmVwb3J0X2lkKToKICAgICAgICBzZWxmLnVzZXIgPSBPcG9pbnRVc2VyLm9iamVjdHMuZ2V0KHBrPXVzZXJfaWQpCiAgICAgICAgc2VsZi5yZXBvcnQgPSBSZXBvcnQub2JqZWN0cy5nZXQocGs9cmVwb3J0X2lkKQoKICAgIGRlZiBjcmVhdGVfcGRmX3JlcG9ydChzZWxmLCB0ZW1wbGF0ZSwgc2VhcmNoLCByZXBvcnQpOgogICAgICAgICIiIgogICAgICAgIENyZWF0ZXMgYSByZXBvcnQgYW5kIHNhdmVzIGl0IGluIGEgc3BlY2lmaWVkIGxvY2F0aW9uLgogICAgICAgIEBwYXJhbSB0ZW1wbGF0ZSB0ZW1wbGF0ZSB0byBiZSB1c2VkCiAgICAgICAgQHBhcmFtIHByb3RvYnVmIG1lc3NhZ2UgdG8gYmUgdXNlZAogICAgICAgIEAKICAgICAgICAiIiIKICAgICAgICByZXBvcnRfbG9nZ2VyLmluZm8oJ2NyZWF0ZV9wZGZfcmVwb3J0LCBjcmVhdGluZyB4bWwgQkVHSU4nKQogICAgICAgIHhtbCA9IGNyZWF0ZV94bWwodGVtcGxhdGUsIHNlbGYudXNlciwgc2VhcmNoLCBwcmV2aWV3PUZhbHNlLCByZXBvcnQ9cmVwb3J0KQogICAgICAgIHJlcG9ydF9sb2dnZXIuaW5mbygnY3JlYXRlX3BkZl9yZXBvcnQsIGNyZWF0aW5nIHhtbCBFTkQgPSAlcycsIHhtbCkKICAgICAgICByZXR1cm4gc2VsZi5jcmVhdGVfcmVwb3J0KHhtbCwgdGVtcGxhdGUsIGVuZ2luZT1QREZFbmdpbmUpCgogICAgZGVmIGNyZWF0ZV9odG1sX3JlcG9ydChzZWxmLCB0ZW1wbGF0ZSwgc2VhcmNoLCByZXBvcnQpOgogICAgICAgIHhtbCA9IGNyZWF0ZV94bWwodGVtcGxhdGUsIHNlbGYudXNlciwgc2VhcmNoLCBwcmV2aWV3PUZhbHNlLCByZXBvcnQ9cmVwb3J0KQogICAgICAgIHJldHVybiBzZWxmLmNyZWF0ZV9yZXBvcnQoeG1sLCB0ZW1wbGF0ZSwgZW5naW5lPUhUTUxFbmdpbmUpCgogICAgZGVmIGNyZWF0ZV9kb2N4X3JlcG9ydChzZWxmLCB0ZW1wbGF0ZSwgc2VhcmNoLCByZXBvcnQpOgogICAgICAgIHhtbCA9IGNyZWF0ZV94bWwodGVtcGxhdGUsIHNlbGYudXNlciwgc2VhcmNoLCBwcmV2aWV3PUZhbHNlLCByZXBvcnQ9cmVwb3J0KQogICAgICAgIHJldHVybiBzZWxmLmNyZWF0ZV9yZXBvcnQoeG1sLCB0ZW1wbGF0ZSwgZW5naW5lPURPQ1hFbmdpbmUpCgogICAgZGVmIGNyZWF0ZV9yZXBvcnQoc2VsZiwgeG1sLCB0ZW1wbGF0ZSwgZW5naW5lPVBERkVuZ2luZSk6CiAgICAgICAgZW5naW5lID0gZW5naW5lKHNlbGYucmVwb3J0LCB4bWwsIHRlbXBsYXRlPXRlbXBsYXRlLCB1c2VyPXNlbGYudXNlcikKICAgICAgICByZXR1cm4gZW5naW5lLmNyZWF0ZV9yZXBvcnQoKQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>l</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB4bWwK</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
-      </register>
-      <register name="5" type="4">
-        <text>s</text>
-      </register>
-      <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
         <text>f</text>
       </register>
-      <register name="8" type="4">
+      <register name="5" type="4">
         <text>l</text>
       </register>
-      <register name="9" type="4">
+      <register name="6" type="4">
         <text>e</text>
+      </register>
+      <register name="7" type="4">
+        <text>PDFEngine(s</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB4bWwK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>send_now</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</last-search>
       <last-offset />
-      <last-pattern>send_now</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</last-pattern>
       <last-replace>transform_to_and_searchmode</last-replace>
       <last-substitute>transform</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>print</entry>
         <entry>create_xml</entry>
         <entry encoding="base64">XDxfX3Bvc3Rwcm9jZXNzX3NlYXJjaGRcPg==</entry>
         <entry encoding="base64">XDxwb3N0cHJvY2Vzc19zZWFyY2hkX3Jlc3BvbnNlXD4=</entry>
@@ -1767,6 +1771,7 @@
         <entry encoding="base64">XDxSZXBvcnRDb25maWdDbGFzc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfeG1sXD4=</entry>
         <entry>send_now</entry>
+        <entry encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>noh</entry>
@@ -1778,7 +1783,6 @@
         <entry>Wqa</entry>
         <entry>100</entry>
         <entry>W:w</entry>
-        <entry encoding="base64">JzwsJz5X</entry>
         <entry>wq</entry>
         <entry>wa</entry>
         <entry>s</entry>
@@ -1787,8 +1791,9 @@
         <entry>wqa</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>w</entry>
+        <entry encoding="base64">JzwsJz5X</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
