@@ -200,12 +200,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1462801866591">
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1462867592638">
         <mark key="'" line="469" column="14" />
-        <mark key="[" line="468" column="35" />
-        <mark key="]" line="469" column="45" />
-        <mark key="^" line="469" column="45" />
-        <mark key="." line="469" column="45" />
+        <mark key="[" line="429" column="24" />
+        <mark key="]" line="429" column="28" />
+        <mark key="^" line="429" column="28" />
+        <mark key="." line="429" column="28" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1456490666506">
         <mark key="'" line="258" column="4" />
@@ -1787,8 +1787,8 @@
         <entry>wqa</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
