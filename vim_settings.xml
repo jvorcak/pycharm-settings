@@ -42,11 +42,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462974616844">
-        <mark key="'" line="584" column="12" />
-        <mark key="[" line="596" column="0" />
-        <mark key="]" line="596" column="0" />
-        <mark key="." line="596" column="0" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462978395679">
+        <mark key="'" line="250" column="21" />
+        <mark key="[" line="166" column="27" />
+        <mark key="]" line="166" column="29" />
+        <mark key="." line="166" column="29" />
+        <mark key="^" line="166" column="29" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -249,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
-      <jump line="38" column="63" filename="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" />
-      <jump line="542" column="42" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="13" column="0" filename="$USER_HOME$/Opoint/api/generated_models.py" />
       <jump line="394" column="38" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="493" column="45" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="618" column="17" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
@@ -349,6 +346,10 @@
       <jump line="594" column="30" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="593" column="13" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="584" column="12" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="14" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="227" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="158" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="250" column="21" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1716,61 +1717,59 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByZXZpZXdfcGRmX25hbWUsIHByZXZpZXdfaW1hZ2VzX25hbWVzCg==</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cAo=</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;&quot;</text>
+        <text>soup.select('a.MonitorNewsletterButton')</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByZXZpZXdfcGRmX25hbWUsIHByZXZpZXdfaW1hZ2VzX25hbWVzCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChwcm90b2J1ZikK</text>
+        <text encoding="base64">ICAgICAgICBmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cAo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbGVydCA9IGdldF9vYmplY3Rfb3JfNDA0KEFsZXJ0LCBjbGFzc19maWVsZD1waykK</text>
+      <register name="2" type="4">
+        <text>soup.select('a.MonitorNewsletterButton')</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IHVuc2VudF9hbGVydF9hcnRpY2xlc19jb3VudChwaykK</text>
+        <text encoding="base64">ZnJvbSBseG1sLmh0bWwgaW1wb3J0IEhUTUxQYXJzZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUHJldmlld0dlbmVyYXRvcihvYmplY3QpOgogICAgIiIiCiAgICBEZXByZWNhdGVkLCBUT0RPIHJlbW92ZSB0aGlzIGNsYXNzCiAgICAiIiIKCiAgICBkZWYgX19pbml0X18oc2VsZiwgdGVtcGxhdGVfaWQsIHVzZXJfaWQpOgogICAgICAgIHBhc3MKICAgICAgICAjIHNlbGYudXNlciA9IE9wb2ludFVzZXIub2JqZWN0cy5nZXQocGs9dXNlcl9pZCkKICAgICAgICAjIHNlbGYudGVtcGxhdGUgPSBUZW1wbGF0ZS5vYmplY3RzLmdldChwaz10ZW1wbGF0ZV9pZCkKCiAgICBkZWYgY3JlYXRlX3BkZl9wcmV2aWV3KHNlbGYpOgogICAgICAgIHBhc3MKICAgICAgICAjIHhtbCA9IGNyZWF0ZV94bWwoc2VsZi50ZW1wbGF0ZSwgc2VsZi51c2VyLCBzZWFyY2g9Tm9uZSwgcHJldmlldz1UcnVlKQogICAgICAgICMgcmV0dXJuIHNlbGYuY3JlYXRlX3ByZXZpZXcoeG1sLCBlbmdpbmU9UERGRW5naW5lKQoKICAgIGRlZiBjcmVhdGVfcHJldmlldyhzZWxmLCB4bWwsIGVuZ2luZT1Ob25lKToKICAgICAgICBwYXNzCiAgICAgICAgIyBlbmdpbmUgPSBlbmdpbmUocmVwb3J0PU5vbmUsIHhtbD14bWwsIHRlbXBsYXRlPXNlbGYudGVtcGxhdGUpCiAgICAgICAgIyByZXR1cm4gZW5naW5lLmNyZWF0ZV9yZXBvcnQoKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gMwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aHR0aWIucGFyc2UgaW1wb3J0IHVybGpvaW4K</text>
+      <register name="6" type="4">
+        <text>)</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfX2dlbmVyYXRlX3RhZ2NvbmZpZ194bWxcPg==</entry>
-        <entry>__generate</entry>
         <entry>__generate_tagconfig_xml</entry>
         <entry encoding="base64">XDxfX2dlbmVyYXRlX3RhZ19jb250ZW50XD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV90YWdfY29udGVudFw+</entry>
@@ -1789,6 +1788,8 @@
         <entry>alerts</entry>
         <entry>next</entry>
         <entry encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</entry>
+        <entry>HTMLParser</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
@@ -1806,9 +1807,9 @@
         <entry>a</entry>
         <entry encoding="base64">JzwsJz5X</entry>
         <entry>%s/self.//gc</entry>
+        <entry>wqa</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>wqa</entry>
         <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
