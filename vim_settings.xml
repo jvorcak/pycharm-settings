@@ -41,11 +41,11 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462951756674">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462967524329">
         <mark key="'" line="561" column="0" />
-        <mark key="[" line="565" column="99" />
-        <mark key="]" line="565" column="104" />
-        <mark key="." line="565" column="104" />
+        <mark key="[" line="565" column="59" />
+        <mark key="]" line="565" column="59" />
+        <mark key="." line="565" column="59" />
         <mark key="^" line="565" column="104" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
@@ -1709,10 +1709,10 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>w</text>
+        <text>_</text>
       </register>
       <register name="-" type="4">
-        <text>w</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
         <text>preview</text>
@@ -1721,31 +1721,31 @@
         <text encoding="base64">ICAgICAgICB3aXRoIGNvbm5lY3Rpb24uY3Vyc29yKCkgYXMgYzoKICAgICAgICAgICAgYy5leGVjdXRlKCJTRUxFQ1QgaWRfaXRlbSBGUk9NIFNjaGVkdWxlSXRlbXMgV0hFUkUgY2xhc3MgPSAlcyIsIHBrKQogICAgICAgICAgICBpZF9iYXNrZXRzID0gW3hbMF0gKyAxMCAqKiA5IGZvciB4IGluIGMuZmV0Y2hhbGwoKV0KICAgICAgICAgICAgaWRfYmFza2V0c19zdHIgPSAnLCcuam9pbihtYXAoc3RyLCBpZF9iYXNrZXRzKSkKCiAgICAgICAgICAgIGMuZXhlY3V0ZSgKICAgICAgICAgICAgICAgICJTRUxFQ1QgQ09VTlQoKikgQVMgY291bnQgRlJPTSBBcnRpY2xlQmFza2V0IFdIRVJFIGlkX2Jhc2tldCBJTiAoJXMpIEFORCBzdGltZXN0YW1wX3VzZWQgPSAwIiwKICAgICAgICAgICAgICAgIGlkX2Jhc2tldHNfc3RyCiAgICAgICAgICAgICkKICAgICAgICAgICAgY291bnQgPSBpbnQoZGljdGZldGNoYWxsKGMpWzBdWydjb3VudCddKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>w</text>
+        <text>_</text>
       </register>
       <register name="2" type="4">
-        <text>e</text>
+        <text>w</text>
       </register>
       <register name="3" type="4">
-        <text>i</text>
-      </register>
-      <register name="4" type="4">
-        <text>v</text>
-      </register>
-      <register name="5" type="4">
         <text>e</text>
       </register>
+      <register name="4" type="4">
+        <text>i</text>
+      </register>
+      <register name="5" type="4">
+        <text>v</text>
+      </register>
       <register name="6" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>r</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
