@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1462974657283">
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1463049382843">
         <mark key="'" line="10" column="20" />
-        <mark key="[" line="98" column="57" />
-        <mark key="]" line="98" column="38" />
-        <mark key="^" line="98" column="38" />
-        <mark key="." line="98" column="38" />
+        <mark key="[" line="80" column="72" />
+        <mark key="]" line="80" column="71" />
+        <mark key="^" line="80" column="71" />
+        <mark key="." line="80" column="71" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/docx.py" timestamp="1462879409834">
         <mark key="[" line="1" column="0" />
@@ -235,12 +235,15 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463047827335">
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463049367307">
         <mark key="'" line="335" column="19" />
-        <mark key="[" line="409" column="0" />
-        <mark key="]" line="409" column="0" />
-        <mark key="^" line="417" column="47" />
-        <mark key="." line="409" column="0" />
+        <mark key="[" line="441" column="76" />
+        <mark key="]" line="443" column="75" />
+        <mark key="^" line="443" column="75" />
+        <mark key="." line="443" column="75" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
+        <mark key="'" line="338" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1456490666506">
         <mark key="'" line="258" column="4" />
@@ -257,8 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="662" column="67" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="703" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="643" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="310" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="557" column="29" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
@@ -357,6 +358,8 @@
       <jump line="766" column="18" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="22" column="34" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="606" column="12" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="160" column="23" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1730,7 +1733,7 @@
         <text encoding="base64">Y3JlYXRlX3BkZl9yZXBvcnQsIGNyZWF0ZV9odG1sX3JlcG9ydCwg</text>
       </register>
       <register name="/" type="4">
-        <text>generate_preview</text>
+        <text>REPORT_XSLT_PATH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gY3JlYXRlX3BkZl9yZXBvcnRfZW5naW5lKHhtbCwgdGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCBOb25lKQo=</text>
@@ -1767,9 +1770,9 @@
       </register>
     </registers>
     <search>
-      <last-search>generate_preview</last-search>
+      <last-search>REPORT_XSLT_PATH</last-search>
       <last-offset />
-      <last-pattern>generate_preview</last-pattern>
+      <last-pattern>REPORT_XSLT_PATH</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1777,7 +1780,6 @@
     </search>
     <history>
       <history-search>
-        <entry>send_now</entry>
         <entry encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</entry>
         <entry>self</entry>
         <entry>self.</entry>
@@ -1797,6 +1799,7 @@
         <entry>Permiss</entry>
         <entry>Permis</entry>
         <entry>generate_preview</entry>
+        <entry>REPORT_XSLT_PATH</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
@@ -1817,8 +1820,8 @@
         <entry>wqa</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>W</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
