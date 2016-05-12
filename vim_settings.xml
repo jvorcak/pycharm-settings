@@ -41,12 +41,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463044446463">
-        <mark key="'" line="606" column="12" />
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="141" column="0" />
-        <mark key="." line="141" column="0" />
-        <mark key="^" line="144" column="56" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463053486941">
+        <mark key="'" line="482" column="8" />
+        <mark key="[" line="515" column="0" />
+        <mark key="]" line="515" column="0" />
+        <mark key="." line="515" column="0" />
+        <mark key="^" line="516" column="49" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -238,9 +238,9 @@
       <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463049367307">
         <mark key="'" line="335" column="19" />
         <mark key="[" line="441" column="76" />
-        <mark key="]" line="443" column="75" />
-        <mark key="^" line="443" column="75" />
-        <mark key="." line="443" column="75" />
+        <mark key="]" line="441" column="75" />
+        <mark key="^" line="441" column="75" />
+        <mark key="." line="441" column="75" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
         <mark key="'" line="338" column="0" />
@@ -260,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="643" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="310" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="557" column="29" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="28" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
@@ -360,6 +359,7 @@
       <jump line="606" column="12" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="160" column="23" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="482" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1727,52 +1727,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdG9idWYuZXhwcmVzc2lvbiA9ICJiYXNrZXQ6e30gbGFzdHNlbnQ9e30iLmZvcm1hdCh0bXBfdGFnX2lkLCBub3dfc3RpbWVzdGFtcCkK</text>
+        <text encoding="base64">ICAgIGRlZiBfX3NldF9hY3RpdmVfZm9yX2FsZXJ0KHNlbGYsIHBrLCB1c2VyLCBhY3RpdmUpOgogICAgICAgIEFsZXJ0Lm9iamVjdHMuZmlsdGVyKGNsYXNzX2ZpZWxkPXBrLCB1c2VyPXVzZXIpLnVwZGF0ZShhY3RpdmU9YWN0aXZlKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y3JlYXRlX3BkZl9yZXBvcnQsIGNyZWF0ZV9odG1sX3JlcG9ydCwg</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>REPORT_XSLT_PATH</text>
+        <text>@detail</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdG9idWYuZXhwcmVzc2lvbiA9ICJiYXNrZXQ6e30gbGFzdHNlbnQ9e30iLmZvcm1hdCh0bXBfdGFnX2lkLCBub3dfc3RpbWVzdGFtcCkK</text>
+        <text encoding="base64">ICAgICAgICBBbGVydC5vYmplY3RzLmZpbHRlcihjbGFzc19maWVsZD1waywgdXNlcj1yZXF1ZXN0LnVzZXIpLnVwZGF0ZShhY3RpdmU9VHJ1ZSkK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y3JlYXRlX3BkZl9yZXBvcnQsIGNyZWF0ZV9odG1sX3JlcG9ydCwg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIGRlZiBfX3NldF9hY3RpdmVfZm9yX2FsZXJ0KHNlbGYsIHBrLCB1c2VyLCBhY3RpdmUpOgogICAgICAgIEFsZXJ0Lm9iamVjdHMuZmlsdGVyKGNsYXNzX2ZpZWxkPXBrLCB1c2VyPXVzZXIpLnVwZGF0ZShhY3RpdmU9YWN0aXZlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4ge2ludChpZF9saXN0KTogbmFtZSBmb3IgaWRfbGlzdCwgbmFtZSBpbiBpZF9uYW1lc190dXBsZXN9CgoKY2xhc3MgQWxlcnRzVmlld1NldCh2aWV3c2V0cy5HZW5lcmljVmlld1NldCk6CiAgICBxdWVyeXNldCA9IEFsZXJ0Lm9iamVjdHMuZmlsdGVyKGNsYXNzX2ZpZWxkX19ndD0xMDAwICogMTAwMCAqIDEwMDApCiAgICBmaWx0ZXJfYmFja2VuZHMgPSAoQWxlcnRGaWx0ZXJCYWNrZW5kLCkKICAgIHNlcmlhbGl6ZXJfY2xhc3MgPSBBbGVydFNlcmlhbGl6ZXIKCiAgICBkZWYgZ2V0X29iamVjdChzZWxmKToKICAgICAgICBjbGFzc19pZCA9IHNlbGYua3dhcmdzWydwayddCiAgICAgICAgb2JqID0gZ2V0X2xpc3Rfb3JfNDA0KAogICAgICAgICAgICBzZWxmLmZpbHRlcl9xdWVyeXNldChzZWxmLnF1ZXJ5c2V0KS5maWx0ZXIoY2xhc3NfZmllbGQ9Y2xhc3NfaWQpCiAgICAgICAgKVswXQoKICAgICAgICBpZiBvYmoudXNlciAhPSBvYmoudXNlcjoKICAgICAgICAgICAgcmFpc2UgTm90Rm91bmQoKQoKICAgICAgICAjIE1heSByYWlzZSBhIHBlcm1pc3Npb24gZGVuaWVkCiAgICAgICAgc2VsZi5jaGVja19vYmplY3RfcGVybWlzc2lvbnMoc2VsZi5yZXF1ZXN0LCBvYmopCgogICAgICAgIHJldHVybiBvYmoKCiAgICBkZWYgX19zZXRfYWN0aXZlX2Zvcl9hbGVydChzZWxmLCBwaywgdXNlciwgYWN0aXZlKToKICAgICAgICBBbGVydC5vYmplY3RzLmZpbHRlcihjbGFzc19maWVsZD1waywgdXNlcj11c2VyKS51cGRhdGUoYWN0aXZlPWFjdGl2ZSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmRlZiBjcmVhdGVfcGRmX3JlcG9ydCh0ZW1wbGF0ZSwgdXNlciwgcHJvdG9idWYsIHJlcG9ydCk6CiAgICB4bWwgPSBjcmVhdGVfeG1sKHRlbXBsYXRlLCB1c2VyLCBwcm90b2J1ZiwgcmVwb3J0PXJlcG9ydCkKICAgIHJldHVybiBjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmUoeG1sLCB0ZW1wbGF0ZSwgdXNlciwgcmVwb3J0PXJlcG9ydCkKCgpkZWYgY3JlYXRlX2h0bWxfcmVwb3J0KHRlbXBsYXRlLCB1c2VyLCBwcm90b2J1ZiwgcmVwb3J0KToKICAgIHhtbCA9IGNyZWF0ZV94bWwodGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCByZXBvcnQ9cmVwb3J0KQogICAgcmV0dXJuIGNyZWF0ZV9odG1sX3JlcG9ydF9lbmdpbmUoeG1sLCB0ZW1wbGF0ZSwgdXNlciwgcmVwb3J0PXJlcG9ydCkK</text>
+        <text encoding="base64">ICAgICAgICBwcmludChjbnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBjcmVhdGVfcmVwb3J0KHRlbXBsYXRlLCB1c2VyLCBwcm90b2J1ZiwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydHMgPSBnZXRfbGlzdF9vcl80MDQoCiAgICAgICAgICAgIEFsZXJ0Lm9iamVjdHMuZmlsdGVyKGNsYXNzX2ZpZWxkPXBrLCB1c2VyPXJlcXVlc3QudXNlcikKICAgICAgICApCiAgICAgICAgYWxlcnRzLnVwZGF0ZShhY3RpdmU9RmFsc2UpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gY3JlYXRlX2h0bWxfcmVwb3J0KHRlbXBsYXRlLCB1c2VyLCBwcm90b2J1ZiwgTm9uZSkK</text>
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbXBsYXRlLnJlcG9ydF90eXBlID09IFRlbXBsYXRlLlBERjoKICAgICAgICByZXR1cm4gY3JlYXRlX3BkZl9yZXBvcnQodGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCBOb25lKQogICAgZWxpZiB0ZW1wbGF0ZS5yZXBvcnRfdHlwZSA9PSBUZW1wbGF0ZS5IVE1MOgogICAgICAgIHJldHVybiBjcmVhdGVfaHRtbF9yZXBvcnQodGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydHMgPSBnZXRfbGlzdF9vcl80MDQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlID0gVGVtcGxhdGUub2JqZWN0cy5nZXQocGs9dGVtcGxhdGVfaWQpCiAgICB1c2VyID0gT3BvaW50VXNlci5vYmplY3RzLmdldChwaz11c2VyX2lkKQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGVydHMgPSBnZXRfbGlzdF9vcl80MDQoCiAgICAgICAgICAgIEFsZXJ0Lm9iamVjdHMuZmlsdGVyKGNsYXNzX2ZpZWxkPXBrLCB1c2VyPXJlcXVlc3QudXNlcikK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGh0dHA6IC8vIGFwaSAtIGphbnYub3BvaW50LmNvbSAvIGFsZXJ0cyAvIDEwMTE2MTIzNjcgLyBuZXh0IC8K</text>
+      <register name="8" type="4">
+        <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGlmIHRlbXBsYXRlLnJlcG9ydF90eXBlID09IFRlbXBsYXRlLlBERjoKICAgICAgICByZXR1cm4gY3JlYXRlX3BkZl9yZXBvcnQodGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCBOb25lKQogICAgZWxpZiB0ZW1wbGF0ZS5yZXBvcnRfdHlwZSA9PSBUZW1wbGF0ZS5IVE1MOgogICAgICAgIHJldHVybiBjcmVhdGVfaHRtbF9yZXBvcnQodGVtcGxhdGUsIHVzZXIsIHByb3RvYnVmLCBOb25lKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>REPORT_XSLT_PATH</last-search>
+      <last-search>@detail</last-search>
       <last-offset />
-      <last-pattern>REPORT_XSLT_PATH</last-pattern>
+      <last-pattern>@detail</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1780,8 +1780,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</entry>
-        <entry>self</entry>
         <entry>self.</entry>
         <entry>get_unique</entry>
         <entry encoding="base64">XDxnZXRfdW5pcXVlX3JlcG9ydF9uYW1lXD4=</entry>
@@ -1800,6 +1798,8 @@
         <entry>Permis</entry>
         <entry>generate_preview</entry>
         <entry>REPORT_XSLT_PATH</entry>
+        <entry>detail_view</entry>
+        <entry>@detail</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
