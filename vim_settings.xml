@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Opoint/api/opoint/templates/tasks.py" timestamp="1462973903382" />
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1462974657283">
         <mark key="'" line="10" column="20" />
         <mark key="[" line="98" column="57" />
@@ -42,12 +41,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1462978395679">
-        <mark key="'" line="250" column="21" />
-        <mark key="[" line="166" column="27" />
-        <mark key="]" line="166" column="29" />
-        <mark key="." line="166" column="29" />
-        <mark key="^" line="166" column="29" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463039332303">
+        <mark key="'" line="587" column="0" />
+        <mark key="[" line="498" column="0" />
+        <mark key="]" line="498" column="0" />
+        <mark key="." line="498" column="0" />
+        <mark key="^" line="630" column="24" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -98,7 +97,6 @@
         <mark key="^" line="18" column="8" />
         <mark key="." line="10" column="25" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/templates/models.py" timestamp="1462969562862" />
       <file name="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" timestamp="1462351239628">
         <mark key="'" line="191" column="17" />
       </file>
@@ -250,10 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="38" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="493" column="45" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="618" column="17" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="704" column="43" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="297" column="19" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="550" column="51" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="564" column="43" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
@@ -350,6 +344,10 @@
       <jump line="227" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="158" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="250" column="21" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="595" column="47" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="77" column="20" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="493" column="20" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="587" column="0" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1717,52 +1715,52 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>soup.select('a.MonitorNewsletterButton')</text>
-      </register>
-      <register name="/" type="4">
-        <text>history</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHByZXZpZXdfcGRmX25hbWUsIHByZXZpZXdfaW1hZ2VzX25hbWVzCg==</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmcm9tIGJzNCBpbXBvcnQgQmVhdXRpZnVsU291cAo=</text>
-      </register>
-      <register name="2" type="4">
-        <text>soup.select('a.MonitorNewsletterButton')</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBseG1sLmh0bWwgaW1wb3J0IEhUTUxQYXJzZXIK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gMwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
-      <register name="8" type="4">
         <text>t</text>
       </register>
+      <register name="/" type="4">
+        <text>Permis</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgTm90Rm91bmQoKQo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCkK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUGVybWlzc2lvbkVycm9yKCdZb3UgZG9uXCd0IGhhdmUgcGVybWlzc2lvbnMgdG8gdmlldyB0aGlzIG9iamVjdC4nKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF80MDFfVU5BVVRIT1JJWkVEKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF80MDFfVU5BVVRIT1JJWkVEKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHN0YXR1cz1zdGF0dXMuSFRUUF80MDRfTk9UX0ZPVU5EKQo=</text>
+      </register>
+      <register name="7" type="4">
+        <text>t</text>
+      </register>
+      <register name="8" type="4">
+        <text>r</text>
+      </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search>Permis</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern>Permis</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1770,12 +1768,6 @@
     </search>
     <history>
       <history-search>
-        <entry>__generate_tagconfig_xml</entry>
-        <entry encoding="base64">XDxfX2dlbmVyYXRlX3RhZ19jb250ZW50XD4=</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZV90YWdfY29udGVudFw+</entry>
-        <entry>generate_tag_content</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZV90YWdjb25maWdfeG1sXD4=</entry>
-        <entry encoding="base64">XDxSZXBvcnRDb25maWdDbGFzc1w+</entry>
         <entry encoding="base64">XDxjcmVhdGVfeG1sXD4=</entry>
         <entry>send_now</entry>
         <entry encoding="base64">XDxjcmVhdGVfcmVwb3J0XD4=</entry>
@@ -1790,6 +1782,12 @@
         <entry encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</entry>
         <entry>HTMLParser</entry>
         <entry>history</entry>
+        <entry>Vor</entry>
+        <entry>HTTP_402</entry>
+        <entry>HTTP_401</entry>
+        <entry>Permission</entry>
+        <entry>Permiss</entry>
+        <entry>Permis</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
