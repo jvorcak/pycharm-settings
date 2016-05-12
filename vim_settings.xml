@@ -41,12 +41,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463041986078">
-        <mark key="'" line="325" column="0" />
-        <mark key="[" line="148" column="0" />
-        <mark key="]" line="148" column="0" />
-        <mark key="." line="148" column="0" />
-        <mark key="^" line="149" column="0" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463043376980">
+        <mark key="'" line="262" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="144" column="56" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -153,8 +153,12 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1462444918924">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463043311473">
         <mark key="'" line="107" column="20" />
+        <mark key="[" line="120" column="9" />
+        <mark key="]" line="120" column="3" />
+        <mark key="^" line="120" column="3" />
+        <mark key="." line="120" column="3" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/__init__.py" timestamp="1462887773175">
         <mark key="[" line="16" column="12" />
@@ -1715,10 +1719,10 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc291cC5wcmV0dGlmeSgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>Permis</text>
@@ -1727,31 +1731,31 @@
         <text encoding="base64">ICAgIGRlZiBnZXRfcGRmKHNlbGYsIG9iamVjdCk6CiAgICAgICAgdHJ5OgogICAgICAgICAgICBzb3VwID0gQmVhdXRpZnVsU291cChvYmplY3QuY29udGVudCwgJ2h0bWwucGFyc2VyJykKICAgICAgICBleGNlcHQgSFRNTFBhcnNlci5IVE1MUGFyc2VFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIE5vbmUKCiAgICAgICAgbGlua19idG4gPSBzb3VwLnNlbGVjdCgnYS5Nb25pdG9yTmV3c2xldHRlckJ1dHRvbicpCiAgICAgICAgaWYgbGlua19idG4gYW5kIGxpbmtfYnRuWzBdIGFuZCBsaW5rX2J0blswXVsnaHJlZiddOgogICAgICAgICAgICByZXR1cm4gbGlua19idG5bMF1bJ2hyZWYnXQoKICAgICAgICByZXR1cm4gTm9uZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc291cC5wcmV0dGlmeSgpKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1wb3J0IHBkYjsgcGRiLnNldF90cmFjZSgpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRkJ3N1YmplY3QnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3N1YmplY3QnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2lzX3BkZihzZWxmKQo=</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoc291cmNlPSdzdWJqZWN0JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN1YmplY3QgPSBzZXJpYWxpemVycy5DaGFyRmllbGQoc291cmNlPSdTdWJqZWN0JykK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gTm9uZQo=</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChzb3VwLnByZXR0aWZ5KCkpCg==</text>
+      <register name="8" type="4">
+        <text>'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChjb3VudF9kaXYpCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">J21haWxUbycsIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
