@@ -252,6 +252,9 @@
         <mark key="." line="239" column="86" />
         <mark key="^" line="239" column="86" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" timestamp="1463129342786">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/SingleFileChromeExtension/WebContent/ui/manifest.json" timestamp="1461852613413">
         <mark key="[" line="24" column="30" />
         <mark key="]" line="24" column="28" />
@@ -260,7 +263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="557" column="29" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="28" column="35" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="171" column="11" filename="$USER_HOME$/Opoint/api/opoint/profiles/serializers.py" />
@@ -360,6 +362,7 @@
       <jump line="160" column="23" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="482" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1733,7 +1736,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>@detail</text>
+        <text>searchresult</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcm90b2J1Zi5wYXJhbXMucmVxdWVzdGVkYXJ0aWNsZXMgPSB1bnNlbnRfYWxlcnRfYXJ0aWNsZXNfY291bnQocGspCg==</text>
@@ -1770,9 +1773,9 @@
       </register>
     </registers>
     <search>
-      <last-search>@detail</last-search>
+      <last-search>searchresult</last-search>
       <last-offset />
-      <last-pattern>@detail</last-pattern>
+      <last-pattern>searchresult</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1780,7 +1783,6 @@
     </search>
     <history>
       <history-search>
-        <entry>self.</entry>
         <entry>get_unique</entry>
         <entry encoding="base64">XDxnZXRfdW5pcXVlX3JlcG9ydF9uYW1lXD4=</entry>
         <entry encoding="base64">XDxET0NYRW5naW5lXD4=</entry>
@@ -1800,6 +1802,7 @@
         <entry>REPORT_XSLT_PATH</entry>
         <entry>detail_view</entry>
         <entry>@detail</entry>
+        <entry>searchresult</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
