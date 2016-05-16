@@ -16,6 +16,9 @@
         <mark key="^" line="2" column="56" />
         <mark key="." line="2" column="56" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" timestamp="1463402298848">
+        <mark key="'" line="386" column="4" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/tasks.py" timestamp="1462194157405">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -40,13 +43,6 @@
         <mark key="]" line="68" column="35" />
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463398225923">
-        <mark key="'" line="410" column="8" />
-        <mark key="[" line="581" column="49" />
-        <mark key="]" line="582" column="11" />
-        <mark key="." line="582" column="11" />
-        <mark key="^" line="582" column="11" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -79,11 +75,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/common/__init__.py" timestamp="1462348883354">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/storedsearch/serializers.py" timestamp="1457344953435">
         <mark key="[" line="40" column="38" />
@@ -210,11 +201,6 @@
         <mark key="." line="26" column="2" />
         <mark key="^" line="26" column="2" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/common/tasks.py" timestamp="1462267139489">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="37" />
-        <mark key="." line="12" column="37" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/templates/serializers.py" timestamp="1456490741403">
         <mark key="[" line="170" column="66" />
         <mark key="]" line="170" column="66" />
@@ -238,10 +224,10 @@
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463399610914">
         <mark key="'" line="173" column="29" />
-        <mark key="[" line="404" column="54" />
-        <mark key="]" line="405" column="114" />
-        <mark key="." line="405" column="114" />
-        <mark key="^" line="405" column="114" />
+        <mark key="[" line="405" column="54" />
+        <mark key="]" line="406" column="114" />
+        <mark key="." line="406" column="114" />
+        <mark key="^" line="406" column="114" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
         <mark key="'" line="338" column="0" />
@@ -264,10 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="4" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="18" column="55" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
-      <jump line="164" column="32" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
-      <jump line="192" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="193" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="129" column="12" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="78" column="30" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
@@ -364,6 +346,10 @@
       <jump line="329" column="31" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="13" column="27" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="173" column="29" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="1821" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
+      <jump line="368" column="35" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
+      <jump line="1773" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
+      <jump line="386" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1737,7 +1723,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>add_user_properties</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYWJlbHNfZWwgPSBldHJlZS5TdWJFbGVtZW50KHJlcG9ydF9lbCwgIkxBQkVMUyIpCg==</text>
@@ -1774,9 +1760,9 @@
       </register>
     </registers>
     <search>
-      <last-search>add_user_properties</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>add_user_properties</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1784,11 +1770,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alerts</entry>
-        <entry>next</entry>
-        <entry encoding="base64">XDxwcmV2aWV3X2ltYWdlc19uYW1lc1w+</entry>
-        <entry>HTMLParser</entry>
-        <entry>history</entry>
         <entry>Vor</entry>
         <entry>HTTP_402</entry>
         <entry>HTTP_401</entry>
@@ -1804,6 +1785,11 @@
         <entry>labels_el</entry>
         <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
         <entry>add_user_properties</entry>
+        <entry>Button</entry>
+        <entry encoding="base64">XDxhcHBseURpcmVjdExpbmtCdXR0b25cPg==</entry>
+        <entry>CSS</entry>
+        <entry>Styles</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
