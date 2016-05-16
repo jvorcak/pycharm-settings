@@ -44,6 +44,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463408057694">
+        <mark key="[" line="619" column="40" />
+        <mark key="]" line="619" column="39" />
+        <mark key="." line="619" column="39" />
+        <mark key="^" line="619" column="39" />
+      </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
         <mark key="[" line="39" column="20" />
@@ -75,6 +81,11 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/common/__init__.py" timestamp="1463406743859">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="0" />
+        <mark key="." line="91" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/storedsearch/serializers.py" timestamp="1457344953435">
         <mark key="[" line="40" column="38" />
@@ -150,7 +161,7 @@
         <mark key="." line="31" column="43" />
         <mark key="^" line="31" column="43" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463051175248">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463407036543">
         <mark key="'" line="107" column="20" />
         <mark key="[" line="120" column="9" />
         <mark key="]" line="120" column="3" />
@@ -222,17 +233,17 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463399610914">
-        <mark key="'" line="173" column="29" />
-        <mark key="[" line="405" column="54" />
-        <mark key="]" line="406" column="114" />
-        <mark key="." line="406" column="114" />
-        <mark key="^" line="406" column="114" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463407858554">
+        <mark key="'" line="386" column="11" />
+        <mark key="[" line="433" column="50" />
+        <mark key="]" line="433" column="47" />
+        <mark key="." line="433" column="47" />
+        <mark key="^" line="433" column="47" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
         <mark key="'" line="338" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1463051033062">
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1463406763580">
         <mark key="'" line="258" column="4" />
         <mark key="[" line="84" column="0" />
         <mark key="]" line="84" column="92" />
@@ -250,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="193" column="17" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="129" column="12" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="78" column="30" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
       <jump line="79" column="24" filename="$USER_HOME$/Opoint/api/opoint/searchd/params_protobuf_msg.proto" />
@@ -350,6 +360,7 @@
       <jump line="368" column="35" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
       <jump line="1773" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
       <jump line="386" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/email_notification.xsl" />
+      <jump line="388" column="11" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1717,60 +1728,59 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text encoding="base64">XDxzZWFyY2hkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYWJlbHNfZWwgPSBldHJlZS5TdWJFbGVtZW50KHJlcG9ydF9lbCwgIkxBQkVMUyIpCg==</text>
       </register>
       <register name="1" type="4">
-        <text>s</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>fs</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlcG9ydF9lbC5hcHBlbmQoc2VhcmNoZCkK</text>
+      <register name="4" type="4">
+        <text>i</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHNlYXJjaGQK</text>
+      <register name="5" type="4">
+        <text>_</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlX3NldHRpbmdzID0gdGVtcGxhdGUuZ2V0X2FsbF9zZXR0aW5ncyh1c2VyKQo=</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRlbXBsYXRlX3NldHRpbmdzID0gdGVtcGxhdGUuZ2V0X2FsbF9zZXR0aW5ncyh1c2VyKQogICAgaWRlbnRpY2FsX3BhcmFtID0gZ2V0X3NldHRpbmdfdmFsdWUodGVtcGxhdGVfc2V0dGluZ3MsIEFic3RyYWN0T3BvaW50U2V0dGluZy5JREVOVElDQUwpCgogICAgcmVwb3J0X2xvZ2dlci5pbmZvKCdhZGRpbmcgcHJvcGVydGllcyB0byBwcm90b2J1ZiBCRUdJTicpCiAgICBtc2cgPSBwcm90b2J1ZnMKICAgIGFkZF91c2VyX3Byb3BlcnRpZXMobXNnLCB1c2VyKQogICAgbXNnLnBhcmFtcy5qc29uID0gRmFsc2UKICAgIG1zZy5wYXJhbXMubWFpbi5zdW1tYXJ5ID0gMgogICAgbXNnLnBhcmFtcy5tYWluLnRleHQgPSAyCiAgICBtc2cucGFyYW1zLm1haW4uaGVhZGVyID0gMgogICAgbXNnLnBhcmFtcy5tYWluLnF1b3RlcyA9IDIKICAgIG1zZy5wYXJhbXMubWFpbi5zaG9ydGhlYWRlcmxlbmd0aCA9IDIKICAgIG1zZy5wYXJhbXMubWFpbi5zaG9ydHN1bW1hcnlsZW5ndGggPSAyCiAgICBtc2cucGFyYW1zLm1haW4ub3RoZXJzb3VyY2VzID0gMQogICAgbXNnLnBhcmFtcy5tYWluLmNvbG9yYmFyID0gMQogICAgbXNnLnBhcmFtcy5ncm91cGlkZW50aWNhbCA9IDEKICAgIGlmIGlkZW50aWNhbF9wYXJhbToKICAgICAgICBtc2cucGFyYW1zLmlkZW50aWNhbC5pbmhlcml0ID0gMQogICAgaWYgcmVwb3J0OgogICAgICAgIG1zZy5wYXJhbXMucmVxdWVzdGVkYXJ0aWNsZXMgPSA1MDAwCiAgICBtc2cucGFyYW1zLmFjY2VwdGVkY2FjaGVhZ2UgPSAtMQogICAgbXNnLnBhcmFtcy5tYXJrX21hdGNoZXNfdXJsID0gMwogICAgbXNnLnBhcmFtcy5hbGxtZXRhID0gMQogICAgbXNnLnBhcmFtcy5zb2NpYWxfbWVkaWEgPSAxCiAgICBtc2cucGFyYW1zLnBpY3R1cmVfdHlwZXMgPSAiMiw0IgogICAgbXNnLnBhcmFtcy5sb2NhbGUgPSAibm8iCiAgICByZXBvcnRfbG9nZ2VyLmluZm8oJ2FkZGluZyBwcm9wZXJ0aWVzIHRvIHByb3RvYnVmIEVORCcpCgogICAgcmVwb3J0X2xvZ2dlci5pbmZvKCdjcmVhdGVfeG1sOjpjYWxsaW5nIHNlYXJjaGQgQkVHSU4nKQogICAgcmVwb3J0X2xvZ2dlci5pbmZvKCdwcm90b2J1ZiA9ICVzJywgc3RyKG1zZykpCiAgICBzZWFyY2hkX3htbCA9IHNlYXJjaGRfc2VhcmNoKG1zZykKICAgIHJlcG9ydF9sb2dnZXIuaW5mbygnY3JlYXRlX3htbDo6Y2FsbGluZyBzZWFyY2hkIEVORCcpCiAgICByZXBvcnRfbG9nZ2VyLmluZm8oJ2NyZWF0ZV94bWw6OnZhbGlkYXRpbmcgc2VhcmNoZCBYTUwgQkVHSU4nKQoKICAgIHJlcG9ydF9sb2dnZXIuaW5mbygnJXMnLCBzdHIobXNnKSkKCiAgICBkYXRlX3N0ciA9IHRpbWUuc3RyZnRpbWUoJyVkLiAlYicpCiAgICB0aW1lX3N0ciA9IHRpbWUuc3RyZnRpbWUoJyVIOiVNJykKCiAgICBlbmNvZGVkX3NlYXJjaGRfeG1sID0gc2VhcmNoZF94bWwuZW5jb2RlKCd1dGYtOCcpCiAgICByZXBvcnRfbG9nZ2VyLmluZm8oJ2NyZWF0ZV94bWw6OmVuY29kZWQgWE1MJykKICAgIHdpdGggb3BlbignL3RtcC9zZWFyY2hkLXJlcG9ydC10bXAueG1sJywgJ3crJykgYXMgZjoKICAgICAgICBmLndyaXRlKHNlYXJjaGRfeG1sKQoKICAgIHNlYXJjaGQgPSBldHJlZS5mcm9tc3RyaW5nKGVuY29kZWRfc2VhcmNoZF94bWwpCiAgICBzZWFyY2hkID0gcG9zdHByb2Nlc3Nfc2VhcmNoZF9yZXNwb25zZShzZWFyY2hkLCBkYXRlX3N0ciwgdGltZV9zdHIpCiAgICAjIGR1bW15IHByZXZpZXcgIHNlYXJjaGQgPSBldHJlZS5YTUwoc2V0dGluZ3MuVEVNUExBVEVfU0VBUkNIRF9SRVNVTFQuZW5jb2RlKCd1dGYtOCcpKQoKICAgIHdpdGggb3BlbignL3RtcC9zZWFyY2hkLXJlcG9ydC10bXAtcG9zdHByb2Nlc3Nlcy54bWwnLCAndysnKSBhcyBmOgogICAgICAgIGYud3JpdGUoZXRyZWUudG9zdHJpbmcoc2VhcmNoZCkuZGVjb2RlKCd1dGYtOCcpKQoKICAgIHJlcG9ydF9sb2dnZXIuaW5mbygnY3JlYXRlX3htbDo6dmFsaWRhdGluZyBzZWFyY2hkIFhNTCBFTkQnKQo=</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcm90b2J1ZnMgPSBbZ2V0X3Byb3RvYnVmKGFsZXJ0LmdldF9pZF9iYXNrZXQoKSkgZm9yIGFsZXJ0IGluIGFsZXJ0c10K</text>
+      <register name="9" type="4">
+        <text>f</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search encoding="base64">XDxzZWFyY2hkXD4=</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern encoding="base64">XDxzZWFyY2hkXD4=</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Vor</entry>
         <entry>HTTP_402</entry>
         <entry>HTTP_401</entry>
         <entry>Permission</entry>
@@ -1790,6 +1800,7 @@
         <entry>CSS</entry>
         <entry>Styles</entry>
         <entry>css</entry>
+        <entry encoding="base64">XDxzZWFyY2hkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
