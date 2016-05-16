@@ -44,11 +44,11 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463408057694">
-        <mark key="[" line="619" column="40" />
-        <mark key="]" line="619" column="39" />
-        <mark key="." line="619" column="39" />
-        <mark key="^" line="619" column="39" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463409056693">
+        <mark key="[" line="621" column="89" />
+        <mark key="]" line="621" column="72" />
+        <mark key="." line="621" column="72" />
+        <mark key="^" line="621" column="72" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -155,13 +155,13 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1463398122798">
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="43" />
-        <mark key="." line="31" column="43" />
-        <mark key="^" line="31" column="43" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1463409036286">
+        <mark key="[" line="48" column="72" />
+        <mark key="]" line="45" column="52" />
+        <mark key="." line="45" column="52" />
+        <mark key="^" line="31" column="59" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463407036543">
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463409354086">
         <mark key="'" line="107" column="20" />
         <mark key="[" line="120" column="9" />
         <mark key="]" line="120" column="3" />
@@ -233,12 +233,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463407858554">
-        <mark key="'" line="386" column="11" />
-        <mark key="[" line="433" column="50" />
-        <mark key="]" line="433" column="47" />
-        <mark key="." line="433" column="47" />
-        <mark key="^" line="433" column="47" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463409138878">
+        <mark key="'" line="367" column="11" />
+        <mark key="[" line="376" column="86" />
+        <mark key="]" line="377" column="15" />
+        <mark key="." line="377" column="15" />
+        <mark key="^" line="377" column="15" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
         <mark key="'" line="338" column="0" />
@@ -1727,11 +1727,11 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydF9zdWJqZWN0cyA9IFthbGVydC5zdWJqZWN0IGZvciBhbGVydCBpbiBhbGVydHNdCg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>, alert_subjects</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZWFyY2hkXD4=</text>
@@ -1739,32 +1739,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYWJlbHNfZWwgPSBldHJlZS5TdWJFbGVtZW50KHJlcG9ydF9lbCwgIkxBQkVMUyIpCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBhbGVydF9zdWJqZWN0cyA9IFthbGVydC5zdWJqZWN0IGZvciBhbGVydCBpbiBhbGVydHNdCg==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>, alert_subjects</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2V0YXR0cihwcm90b2J1ZiwgJ2FsZXJ0X3N1YmplY3QnLCBhbGVydC5zdWJqZWN0KQo=</text>
       </register>
       <register name="4" type="4">
-        <text>i</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>_</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>e</text>
+        <text>d</text>
       </register>
       <register name="7" type="4">
-        <text>l</text>
-      </register>
-      <register name="8" type="4">
         <text>i</text>
       </register>
+      <register name="8" type="4">
+        <text>_</text>
+      </register>
       <register name="9" type="4">
-        <text>f</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
