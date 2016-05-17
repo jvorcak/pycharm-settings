@@ -233,13 +233,6 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463466168305">
-        <mark key="'" line="367" column="11" />
-        <mark key="[" line="376" column="86" />
-        <mark key="]" line="377" column="15" />
-        <mark key="." line="377" column="15" />
-        <mark key="^" line="377" column="15" />
-      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
         <mark key="'" line="338" column="0" />
       </file>
@@ -1734,7 +1727,7 @@
         <text>, alert_subjects</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZWFyY2hkXD4=</text>
+        <text>send_now</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsYWJlbHNfZWwgPSBldHJlZS5TdWJFbGVtZW50KHJlcG9ydF9lbCwgIkxBQkVMUyIpCg==</text>
@@ -1771,17 +1764,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZWFyY2hkXD4=</last-search>
+      <last-search>send_now</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZWFyY2hkXD4=</last-pattern>
+      <last-pattern>send_now</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HTTP_402</entry>
         <entry>HTTP_401</entry>
         <entry>Permission</entry>
         <entry>Permiss</entry>
@@ -1801,6 +1793,7 @@
         <entry>Styles</entry>
         <entry>css</entry>
         <entry encoding="base64">XDxzZWFyY2hkXD4=</entry>
+        <entry>send_now</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
