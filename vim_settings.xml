@@ -240,8 +240,8 @@
         <mark key="^" line="419" column="26" />
         <mark key="." line="478" column="56" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463049356398">
-        <mark key="'" line="338" column="0" />
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463560341365">
+        <mark key="'" line="337" column="35" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1463406763580">
         <mark key="'" line="258" column="4" />
@@ -261,7 +261,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="239" column="21" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="393" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="449" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
@@ -361,6 +360,7 @@
       <jump line="451" column="70" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="387" column="70" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="14" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="337" column="35" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1734,7 +1734,7 @@
         <text>, show_preview=False</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2xhdGlvblw+</text>
+        <text>locale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRyYW5zbGF0aW9uCg==</text>
@@ -1767,21 +1767,20 @@
         <text encoding="base64">ICAgICAgICBwcm90b2J1Zgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2xhdGlvblw+</last-search>
+      <last-search>locale</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2xhdGlvblw+</last-pattern>
+      <last-pattern>locale</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add_user_properties</entry>
         <entry>Button</entry>
         <entry encoding="base64">XDxhcHBseURpcmVjdExpbmtCdXR0b25cPg==</entry>
         <entry>CSS</entry>
@@ -1801,6 +1800,7 @@
         <entry encoding="base64">XDxyZXBvcnRfc2VhcmNoXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmVcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2xhdGlvblw+</entry>
+        <entry>locale</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
@@ -1820,9 +1820,9 @@
         <entry>wqa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>sp</entry>
-        <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
