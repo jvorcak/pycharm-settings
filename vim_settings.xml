@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1463480494566">
-        <mark key="'" line="10" column="20" />
-        <mark key="[" line="80" column="72" />
-        <mark key="]" line="80" column="71" />
-        <mark key="^" line="80" column="71" />
-        <mark key="." line="80" column="71" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1463649011852">
+        <mark key="'" line="16" column="85" />
+        <mark key="[" line="158" column="0" />
+        <mark key="]" line="158" column="0" />
+        <mark key="^" line="140" column="37" />
+        <mark key="." line="158" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/docx.py" timestamp="1462879409834">
         <mark key="[" line="1" column="0" />
@@ -44,10 +44,12 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463645845925">
-        <mark key="'" line="14" column="25" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="36" />
+      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463649055503">
+        <mark key="'" line="289" column="14" />
+        <mark key="[" line="621" column="88" />
+        <mark key="]" line="621" column="115" />
+        <mark key="^" line="621" column="115" />
+        <mark key="." line="621" column="115" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
@@ -129,11 +131,11 @@
         <mark key="^" line="109" column="7" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1462879832118">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="10" />
-        <mark key="^" line="7" column="10" />
-        <mark key="." line="7" column="10" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/html.py" timestamp="1463648935834">
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="10" column="93" />
+        <mark key="^" line="10" column="93" />
+        <mark key="." line="10" column="93" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/templates/views.py" timestamp="1462973869505">
         <mark key="'" line="27" column="0" />
@@ -156,11 +158,11 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1463486073964">
-        <mark key="[" line="48" column="62" />
-        <mark key="]" line="31" column="44" />
-        <mark key="." line="31" column="44" />
-        <mark key="^" line="31" column="44" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1463648850397">
+        <mark key="[" line="31" column="61" />
+        <mark key="]" line="31" column="84" />
+        <mark key="." line="31" column="84" />
+        <mark key="^" line="31" column="84" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463409354086">
         <mark key="'" line="107" column="20" />
@@ -235,12 +237,12 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463558169738">
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463648882740">
         <mark key="'" line="19" column="42" />
-        <mark key="[" line="478" column="56" />
-        <mark key="]" line="478" column="56" />
-        <mark key="^" line="419" column="26" />
-        <mark key="." line="478" column="56" />
+        <mark key="[" line="490" column="74" />
+        <mark key="]" line="492" column="99" />
+        <mark key="^" line="492" column="99" />
+        <mark key="." line="492" column="99" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1463406763580">
         <mark key="'" line="258" column="4" />
@@ -260,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="393" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="449" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="267" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="92" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="266" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
@@ -360,6 +360,8 @@
       <jump line="14" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="337" column="35" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Opoint/api/opoint/common/__init__.py" />
+      <jump line="16" column="85" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
+      <jump line="289" column="14" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1726,53 +1728,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>locale</text>
+        <text>generate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRyYW5zbGF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAne30uVVRGLTgnLmZvcm1hdChsb2NhbGVfbmFtZSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
       </register>
       <register name="2" type="4">
-        <text>ll_to_ll_CC</text>
+        <text>l</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>ll_to_ll_CC</text>
       </register>
       <register name="4" type="4">
-        <text>e</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
+        <text>e</text>
+      </register>
+      <register name="6" type="4">
         <text>d</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ZGVmIGxhbmd1YWdlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>, show_preview=False</text>
-      </register>
       <register name="9" type="4">
-        <text>, show_preview=show_preview</text>
+        <text>, show_preview=False</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>locale</last-search>
+      <last-search>generate</last-search>
       <last-offset />
-      <last-pattern>locale</last-pattern>
+      <last-pattern>generate</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1780,8 +1782,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Button</entry>
-        <entry encoding="base64">XDxhcHBseURpcmVjdExpbmtCdXR0b25cPg==</entry>
         <entry>CSS</entry>
         <entry>Styles</entry>
         <entry>css</entry>
@@ -1800,6 +1800,8 @@
         <entry encoding="base64">XDxjcmVhdGVfcGRmX3JlcG9ydF9lbmdpbmVcPg==</entry>
         <entry encoding="base64">XDx0cmFuc2xhdGlvblw+</entry>
         <entry>locale</entry>
+        <entry>run_texrunner</entry>
+        <entry>generate</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
