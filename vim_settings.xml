@@ -5,10 +5,9 @@
     <filemarks>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" timestamp="1463649011852">
         <mark key="'" line="16" column="85" />
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="140" column="37" />
-        <mark key="." line="158" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/engines/docx.py" timestamp="1462879409834">
         <mark key="[" line="1" column="0" />
@@ -44,13 +43,6 @@
         <mark key="." line="68" column="35" />
         <mark key="^" line="68" column="35" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" timestamp="1463649055503">
-        <mark key="'" line="289" column="14" />
-        <mark key="[" line="621" column="88" />
-        <mark key="]" line="621" column="115" />
-        <mark key="^" line="621" column="115" />
-        <mark key="." line="621" column="115" />
-      </file>
       <file name="$USER_HOME$/PycharmProjects/single-page-agent/agent.py" timestamp="1462174807185">
         <mark key="'" line="38" column="63" />
         <mark key="[" line="39" column="20" />
@@ -82,13 +74,6 @@
         <mark key="]" line="2" column="19" />
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/common/__init__.py" timestamp="1463646136904">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="26" column="66" />
-        <mark key="." line="26" column="66" />
-        <mark key="^" line="26" column="66" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/storedsearch/serializers.py" timestamp="1457344953435">
         <mark key="[" line="40" column="38" />
@@ -157,12 +142,6 @@
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1463648850397">
-        <mark key="[" line="31" column="61" />
-        <mark key="]" line="31" column="84" />
-        <mark key="." line="31" column="84" />
-        <mark key="^" line="31" column="84" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463409354086">
         <mark key="'" line="107" column="20" />
@@ -237,19 +216,19 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463648882740">
-        <mark key="'" line="19" column="42" />
-        <mark key="[" line="490" column="74" />
-        <mark key="]" line="492" column="99" />
-        <mark key="^" line="492" column="99" />
-        <mark key="." line="492" column="99" />
+      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1463654947925">
+        <mark key="'" line="235" column="9" />
+        <mark key="[" line="235" column="56" />
+        <mark key="]" line="235" column="82" />
+        <mark key="^" line="235" column="82" />
+        <mark key="." line="235" column="82" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/serializers.py" timestamp="1463406763580">
-        <mark key="'" line="258" column="4" />
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="92" />
-        <mark key="." line="239" column="86" />
-        <mark key="^" line="239" column="86" />
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463654941974">
+        <mark key="'" line="342" column="34" />
+        <mark key="[" line="343" column="21" />
+        <mark key="]" line="343" column="21" />
+        <mark key="^" line="343" column="22" />
+        <mark key="." line="343" column="21" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" timestamp="1463129342786">
         <mark key="'" line="0" column="0" />
@@ -262,22 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="92" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="266" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="153" column="28" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="155" column="12" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="158" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="126" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="206" column="12" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="127" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="198" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="166" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="399" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="167" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="404" column="13" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="183" column="13" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
-      <jump line="406" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="182" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="194" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="186" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
@@ -292,7 +255,6 @@
       <jump line="220" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="469" column="14" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="52" column="6" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="485" column="20" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
       <jump line="9" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/mixins.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/mixins.py" />
       <jump line="72" column="8" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/mixins.py" />
@@ -321,7 +283,6 @@
       <jump line="766" column="18" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="606" column="12" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="160" column="23" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
-      <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="482" column="8" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="0" column="0" filename="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" />
       <jump line="286" column="10" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
@@ -358,10 +319,28 @@
       <jump line="451" column="70" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="387" column="70" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
       <jump line="14" column="25" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
-      <jump line="337" column="35" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
       <jump line="22" column="0" filename="$USER_HOME$/Opoint/api/opoint/common/__init__.py" />
       <jump line="16" column="85" filename="$USER_HOME$/Opoint/api/opoint/reports/engines/pdf.py" />
       <jump line="289" column="14" filename="$USER_HOME$/Opoint/api/opoint/alerts/serializers.py" />
+      <jump line="309" column="55" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="484" column="74" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="485" column="38" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="193" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="197" column="19" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="199" column="22" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="254" column="54" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="297" column="4" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="258" column="63" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
+      <jump line="127" column="22" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="385" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="279" column="14" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="336" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="337" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="338" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="339" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="340" column="0" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="343" column="34" filename="$USER_HOME$/Opoint/api/opoint/settings.py" />
+      <jump line="235" column="9" filename="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -1728,53 +1707,53 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>generate</text>
+        <text>import settings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAne30uVVRGLTgnLmZvcm1hdChsb2NhbGVfbmFtZSksCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>ll_to_ll_CC</text>
+        <text>&quot;http://www.opoint.com&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>f</text>
+        <text>&quot;(+47) 21 56 97 50&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>)</text>
       </register>
-      <register name="6" type="4">
-        <text>d</text>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBvcG9pbnQuc2V0dGluZ3MgaW1wb3J0IExPQ0FMRV9NQVBQSU5HUwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmIGxhbmd1YWdlCg==</text>
+        <text encoding="base64">TE9DQUxFX01BUFBJTkdTID0gewogICAgJ2VuJzogJ2VuX1VTJywKICAgICdlbi1nYic6ICdlbl9HQicsCiAgICAnbmInOiAnbmJfTk8nLAogICAgJ25uJzogJ25uX05PJywKICAgICdzdic6ICdzdl9TRScsCiAgICAnZGEnOiAnZGFfREsnLAogICAgJ2V0JzogJ2V0X0VFJywKfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
       </register>
       <register name="9" type="4">
-        <text>, show_preview=False</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>generate</last-search>
+      <last-search>import settings</last-search>
       <last-offset />
-      <last-pattern>generate</last-pattern>
+      <last-pattern>import settings</last-pattern>
       <last-replace />
       <last-substitute>self.</last-substitute>
       <last-dir>1</last-dir>
@@ -1782,11 +1761,6 @@
     </search>
     <history>
       <history-search>
-        <entry>CSS</entry>
-        <entry>Styles</entry>
-        <entry>css</entry>
-        <entry encoding="base64">XDxzZWFyY2hkXD4=</entry>
-        <entry>send_now</entry>
         <entry>detail</entry>
         <entry>[protobuf]</entry>
         <entry>protobuf</entry>
@@ -1802,6 +1776,11 @@
         <entry>locale</entry>
         <entry>run_texrunner</entry>
         <entry>generate</entry>
+        <entry>GEnerated</entry>
+        <entry>generated</entry>
+        <entry>articles</entry>
+        <entry>REPORT</entry>
+        <entry>import settings</entry>
       </history-search>
       <history-cmd>
         <entry>%s/transform/transform_to_and_searchmod/g</entry>
