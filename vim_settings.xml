@@ -103,6 +103,12 @@
         <mark key="." line="300" column="56" />
         <mark key="^" line="300" column="56" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/searchd_issue.log" timestamp="1463746614260">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="71" column="188827" />
+        <mark key="^" line="71" column="188827" />
+        <mark key="." line="71" column="188827" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/serializers.py" timestamp="1463656313652">
         <mark key="'" line="17" column="40" />
         <mark key="[" line="287" column="13" />
