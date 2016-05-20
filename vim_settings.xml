@@ -75,6 +75,12 @@
         <mark key="." line="2" column="19" />
         <mark key="^" line="2" column="19" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/common/__init__.py" timestamp="1463739121968">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="13" column="49" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/storedsearch/serializers.py" timestamp="1457344953435">
         <mark key="[" line="40" column="38" />
         <mark key="]" line="41" column="46" />
@@ -222,6 +228,12 @@
         <mark key="]" line="235" column="82" />
         <mark key="^" line="235" column="82" />
         <mark key="." line="235" column="82" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463739113353">
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
+        <mark key="^" line="287" column="22" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" timestamp="1463129342786">
         <mark key="'" line="0" column="0" />
@@ -1700,8 +1712,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -1712,32 +1724,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAne30uVVRGLTgnLmZvcm1hdChsb2NhbGVfbmFtZSksCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">TE9DQUxFX01BUFBJTkdTID0gc2V0dGluZ3MuTE9DQUxFX01BUFBJTkdTCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>&quot;http://www.opoint.com&quot;</text>
-      </register>
-      <register name="4" type="4">
-        <text>&quot;(+47) 21 56 97 50&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBvcG9pbnQuc2V0dGluZ3MgaW1wb3J0IExPQ0FMRV9NQVBQSU5HUwo=</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">TE9DQUxFX01BUFBJTkdTID0gewogICAgJ2VuJzogJ2VuX1VTJywKICAgICdlbi1nYic6ICdlbl9HQicsCiAgICAnbmInOiAnbmJfTk8nLAogICAgJ25uJzogJ25uX05PJywKICAgICdzdic6ICdzdl9TRScsCiAgICAnZGEnOiAnZGFfREsnLAogICAgJ2V0JzogJ2V0X0VFJywKfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibmJfTk8uVVRGLTgiLAo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">TE9DQUxFX01BUFBJTkdTID0gewogICAgJ2VuJzogJ2VuX1VTJywKICAgICdlbi1nYic6ICdlbl9HQicsCiAgICAnbmInOiAnbmJfTk8nLAogICAgJ25uJzogJ25uX05PJywKICAgICdzdic6ICdzdl9TRScsCiAgICAnZGEnOiAnZGFfREsnLAogICAgJ2V0JzogJ2V0X0VFJywKfQo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="7" type="4">
+        <text>&quot;</text>
+      </register>
+      <register name="8" type="4">
+        <text>&quot;http://www.opoint.com&quot;</text>
       </register>
       <register name="9" type="4">
-        <text>l</text>
+        <text>&quot;(+47) 21 56 97 50&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1794,8 +1806,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>sp</entry>
         <entry>q</entry>
-        <entry>W</entry>
         <entry>w</entry>
+        <entry>W</entry>
       </history-cmd>
       <history-expr />
       <history-input />
