@@ -58,6 +58,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/users/views.py" timestamp="1466510092298">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="5" column="37" />
+        <mark key="^" line="5" column="37" />
+        <mark key="." line="5" column="37" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/feeds/models.py" timestamp="1462353767123">
         <mark key="[" line="70" column="33" />
         <mark key="]" line="71" column="11" />
@@ -156,7 +162,6 @@
       <file name="$USER_HOME$/Opoint/api/opoint/tags/models.py" timestamp="1458209019838">
         <mark key="'" line="268" column="8" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/tasks.py" timestamp="1464077987767" />
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/models.py" timestamp="1463409354086">
         <mark key="'" line="107" column="20" />
         <mark key="[" line="120" column="9" />
@@ -229,13 +234,6 @@
         <mark key="]" line="18" column="9" />
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
-      </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/reports/__init__.py" timestamp="1464005449827">
-        <mark key="'" line="472" column="42" />
-        <mark key="[" line="368" column="5" />
-        <mark key="]" line="368" column="21" />
-        <mark key="^" line="368" column="21" />
-        <mark key="." line="368" column="21" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1463739113353">
         <mark key="[" line="288" column="0" />
@@ -1760,7 +1758,7 @@
         <text>r</text>
       </register>
       <register name=":" type="4">
-        <text>wqa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1814,8 +1812,8 @@
         <entry>sp</entry>
         <entry>q</entry>
         <entry>W</entry>
-        <entry>w</entry>
         <entry>wqa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
