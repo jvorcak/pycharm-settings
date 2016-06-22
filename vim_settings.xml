@@ -222,11 +222,11 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
-      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1466602419435">
+      <file name="$USER_HOME$/Opoint/api/opoint/settings.py" timestamp="1466606499685">
         <mark key="'" line="52" column="16" />
-        <mark key="[" line="318" column="0" />
-        <mark key="]" line="318" column="0" />
-        <mark key="." line="318" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/reports/xslt/pdf_report.xsl" timestamp="1463129342786">
         <mark key="'" line="0" column="0" />
@@ -1706,7 +1706,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICcnCg==</text>
+        <text encoding="base64">ICAgICgnSmFuIFZvcmNhaycsICdqYW5Ab3BvaW50LmNvbScpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>195.159.156.18</text>
@@ -1718,31 +1718,31 @@
         <text encoding="base64">ICAgICAgICBhZGRfZGVmYXVsdF9vcHRpb25zKHByb3RvYnVmKQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICgnSmFuIFZvcmNhaycsICdqYW5Ab3BvaW50LmNvbScpLAo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICcnCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>195.159.156.18</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>193.215.6.253</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>v</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>213.175.39.66</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>t</text>
       </register>
-      <register name="8" type="4">
-        <text>n</text>
-      </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>n</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
