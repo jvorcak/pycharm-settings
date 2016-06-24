@@ -159,6 +159,12 @@
         <mark key="^" line="120" column="3" />
         <mark key="." line="120" column="3" />
       </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/contacts/serializers.py" timestamp="1466765821972">
+        <mark key="[" line="18" column="76" />
+        <mark key="]" line="18" column="84" />
+        <mark key="^" line="18" column="84" />
+        <mark key="." line="18" column="84" />
+      </file>
       <file name="$USER_HOME$/Opoint/api/opoint/alerts/__init__.py" timestamp="1462887773175">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="37" />
@@ -176,6 +182,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="13" column="56" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Opoint/api/opoint/contacts/models.py" timestamp="1466765815061">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/Opoint/api/opoint/tags/tasks.py" timestamp="1458567204674">
         <mark key="'" line="21" column="43" />
@@ -1706,7 +1716,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICgnSmFuIFZvcmNhaycsICdqYW5Ab3BvaW50LmNvbScpLAo=</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gbW9kZWxzLkVtYWlsRmllbGQoYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
         <text>195.159.156.18</text>
@@ -1715,7 +1725,7 @@
         <text>IP</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRfZGVmYXVsdF9vcHRpb25zKHByb3RvYnVmKQo=</text>
+        <text encoding="base64">ICAgIGVtYWlsID0gbW9kZWxzLkVtYWlsRmllbGQoYmxhbms9VHJ1ZSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICgnSmFuIFZvcmNhaycsICdqYW5Ab3BvaW50LmNvbScpLAo=</text>
